@@ -15,6 +15,16 @@ has_children: false
 | [Lingmo OS](https://lingmo.org/) |
 | GitHub / [LingmoOS](https://github.com/LingmoOS) |
 | SourceForge / [Lingmo OS](https://sourceforge.net/projects/lingmo-os/) |
+| Lingmo OS / [Forum](https://bbs.lingmo.org/) |
+
+
+
+
+## Cutefish OS
+
+| Link |
+| ---- |
+| GitHub / [Cutefish OS](https://github.com/cutefishos) |
 
 
 
