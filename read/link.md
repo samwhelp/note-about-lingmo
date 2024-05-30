@@ -14,7 +14,7 @@ has_children: false
 | ---- |
 | [Lingmo OS](https://lingmo.org/) |
 | GitHub / [LingmoOS](https://github.com/LingmoOS) |
-| SourceForge / [Lingmo OS](https://sourceforge.net/projects/lingmo-os/) |
+| SourceForge / [Lingmo OS](https://sourceforge.net/projects/lingmo-os/) / [Files](https://sourceforge.net/projects/lingmo-os/files/) |
 | Lingmo OS / [Forum](https://bbs.lingmo.org/) |
 
 
