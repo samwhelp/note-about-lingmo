@@ -8,6 +8,15 @@ has_children: false
 # 連結
 
 
+
+
+## News
+
+* [Lingmo OS 2.0 Hydrogen Released!](https://github.com/orgs/LingmoOS/discussions/19)
+
+
+
+
 ## Lingmo OS
 
 | Link |
@@ -16,6 +25,9 @@ has_children: false
 | GitHub / [LingmoOS](https://github.com/LingmoOS) |
 | SourceForge / [Lingmo OS](https://sourceforge.net/projects/lingmo-os/) / [Files](https://sourceforge.net/projects/lingmo-os/files/) |
 | Lingmo OS / [Forum](https://bbs.lingmo.org/) |
+| Lingmo OS / [Community](https://github.com/orgs/LingmoOS/discussions/) |
+| Lingmo OS / [Blog](https://lingmoos.github.io/lingmo-blog/) |
+| Lingmo OS / [Wiki](https://wiki.lingmo.org) |
 
 
 
