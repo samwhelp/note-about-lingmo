@@ -9,7 +9,7 @@ grand_parent: 設定
 
 # 視窗移到指定工作空間
 
-> KDE Plasma Adjustment / [Keybind](https://github.com/samwhelp/note-about-kubuntu/tree/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main)
+> [Lingmo 微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark)
 
 
 * [設定片段](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L162-L181)

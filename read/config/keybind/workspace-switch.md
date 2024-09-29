@@ -9,7 +9,7 @@ grand_parent: 設定
 
 # 工作空間切換
 
-> KDE Plasma Adjustment / [Keybind](https://github.com/samwhelp/note-about-kubuntu/tree/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main)
+> [Lingmo 微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark)
 
 
 ## 我個人定義的個工作空間
