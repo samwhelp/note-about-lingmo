@@ -9,6 +9,8 @@ parent: 設定
 # 按鍵綁定
 
 
+
+
 ## 主題
 
 * [設定檔](#設定檔)
@@ -23,6 +25,8 @@ parent: 設定
 * [圖形使用者介面程式](#圖形使用者介面程式)
 
 
+
+
 ## 設定檔
 
 這篇的根據，是採用「[客製的設定](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark)」，
@@ -33,6 +37,8 @@ parent: 設定
 還有參考另一篇「[如何設定按鍵綁定](https://samwhelp.github.io/note-about-kde/read/howto/config-keybind-by-command.html)」的說明。
 
 > [按鍵操作快速上手指南](https://samwhelp.github.io/system-modeling/read/zh_tw/quick-start)
+
+
 
 
 ## 系統操作
@@ -53,6 +59,8 @@ parent: 設定
 | [使用 Rofi 開啟應用程式](keybind/application-launch-rofi) |
 
 
+
+
 ## 視窗操作
 
 | 主題 |
@@ -60,6 +68,8 @@ parent: 設定
 | [視窗基本操作](keybind/window-control) |
 | [視窗聚焦切換](keybind/window-focus) |
 | [視窗平鋪移動操作](keybind/window-tiling-move) |
+
+
 
 
 ## 工作空間
@@ -72,11 +82,15 @@ parent: 設定
 | [活動操作](keybind/activity-control) |
 
 
+
+
 ## 音量控制
 
 | 主題 |
 | --- |
 | [音量控制](keybind/volume-control) |
+
+
 
 
 ## 螢幕亮度控制
@@ -86,6 +100,8 @@ parent: 設定
 | [螢幕亮度控制](keybind/monitor-brightness-control) |
 
 
+
+
 ## 螢幕截圖
 
 | 主題 |
@@ -93,10 +109,14 @@ parent: 設定
 | [螢幕截圖](keybind/screenshot-control) |
 
 
+
+
 ## 統整對照
 
 * [按鍵操作快速上手指南](https://samwhelp.github.io/system-modeling/read/zh_tw/quick-start)
 * [通用鍵盤組合鍵操作](https://samwhelp.github.io/system-modeling/read/zh_tw/spec-keybind-common)
+
+
 
 
 ## 圖形使用者介面程式
