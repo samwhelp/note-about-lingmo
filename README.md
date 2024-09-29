@@ -21,7 +21,7 @@
 
 ## 微調腳本
 
-| 微調腳本 |
+| [微調腳本](https://samwhelp.github.io/note-about-lingmo/read/config.html) |
 | -------- |
 | [Lingmo OS](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main) |
 
