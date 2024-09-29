@@ -29,12 +29,20 @@ parent: 設定
 
 ## 設定檔
 
-這篇的根據，是採用「[客製的設定](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark)」，
+這裡設定的根據，是採用「[我慣用的設定](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark)」，
 
-請參考「我的設定檔: [~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc)」。
+請參考「[我的設定檔](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config)」。
 
+關於「按鍵綁定」的設定檔有兩個，如下
 
-還有參考另一篇「[如何設定按鍵綁定](https://samwhelp.github.io/note-about-kde/read/howto/config-keybind-by-command.html)」的說明。
+| Config File |
+| ----------- |
+| [~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc) |
+| [~/.config/lingmoglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/lingmoglobalshortcutsrc) |
+
+> 其實可以單獨使用「~/.config/kglobalshortcutsrc」就可以實作想要的「按鍵綁定」，可以參考「[另一個範例](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/lingmo-config/locale/en_us/KglobalshortcutOnly-Lingmo-Dark)」。
+
+還有參考另一篇「[如何設定KDE按鍵綁定](https://samwhelp.github.io/note-about-kde/read/howto/config-keybind-by-command.html)」的說明。
 
 > [按鍵操作快速上手指南](https://samwhelp.github.io/system-modeling/read/zh_tw/quick-start)
 
