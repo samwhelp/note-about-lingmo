@@ -33,9 +33,9 @@ grand_parent: 設定
 
 ## 關閉視窗
 
-| 按鍵組合          | 功能     | 執行指令         |
-| ----------------- | -------- | ---------------- |
-| `Win + q`         | 關閉視窗 | `Window Close=` |
+| 按鍵組合   | 功能      | 執行指令         |
+| ---------- | --------- | ---------------- |
+| `Win + q`  | 關閉視窗  | `Window Close=`  |
 
 
 > 一般是採用「`Alt + F4`」來「關閉視窗」。
@@ -52,10 +52,10 @@ Window Close=Meta+Q,Alt+F4,Close Window
 
 ## 全螢幕
 
-| 按鍵組合          | 功能     | 執行指令         |
-| --------- | ---------- | ----------------------------- |
-| `Win + f` | 視窗全螢幕 | `Window Fullscreen=` |
-| `F11` | 視窗全螢幕 | `Window Fullscreen=` |
+| 按鍵組合   | 功能        | 執行指令              |
+| ---------- | ----------- | --------------------- |
+| `Win + f`  | 視窗全螢幕  | `Window Fullscreen=`  |
+| `F11`      | 視窗全螢幕  | `Window Fullscreen=`  |
 
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L122)
@@ -69,10 +69,9 @@ Window Fullscreen=F11\tMeta+F,none,Make Window Fullscreen
 
 ## 最大化
 
-| 按鍵組合          | 功能     | 執行指令         |
-| --------- | ---------- | ----------------------------- |
-| `Win + w` | 視窗最大化 | `Window Maximize=` |
-| `Win + PgUp` | 視窗最大化 | `Window Maximize=` |
+| 按鍵組合   | 功能        | 執行指令            |
+| ---------- | ----------- | ------------------- |
+| `Win + w`  | 視窗最大化  | `Window Maximize=`  |
 
 
 > 也可以在「標題列」，使用「滑鼠左鍵」，點選兩下，切換視窗最大化。
@@ -89,16 +88,15 @@ Window Maximize=Meta+W\tMeta+PgUp,Meta+PgUp,Maximize Window
 
 ## 最小化
 
-| 按鍵組合          | 功能     | 執行指令         |
-| --------- | ---------- | ----------------------------- |
-| `Win + x` | 視窗最小化 | `Window Minimize=` |
-| `Win + PgDown` | 視窗最小化 | `Window Minimize=` |
+| 按鍵組合   | 功能        | 執行指令            |
+| ---------- | ----------- | ------------------- |
+| `Win + x`  | 視窗最小化  | `Window Minimize=`  |
 
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L129)
 
 ``` ini
-Window Minimize=Meta+PgDown\tMeta+X,Meta+PgDown,Minimize Window
+Window Minimize=Meta+X\tMeta+PgDown,Meta+PgDown,Minimize Window
 ```
 
 
