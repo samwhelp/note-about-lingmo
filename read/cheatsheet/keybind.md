@@ -114,6 +114,15 @@ parent: 一覽表
 
 
 
+| 按鍵組合     | 功能                    | 執行指令                                       |
+| ------------ | ----------------------- | ---------------------------------------------- |
+| `Win + a`    | 聚焦切換到前面一個視窗  | `Walk Through Windows (Reverse)=`              |
+| `Win + s`    | 聚焦切換到後面一個視窗  | `Walk Through Windows=`                        |
+| `Win + Esc`  | 聚焦切換到前面一個視窗  | `Walk Through Windows Alternative=`            |
+| `Alt + Esc`  | 聚焦切換到後面一個視窗  | `Walk Through Windows Alternative (Reverse)=`  |
+
+
+
 ## 相關連結
 
 | 相關連結 |
