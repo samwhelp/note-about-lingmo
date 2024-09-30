@@ -82,7 +82,7 @@ Exec=lingmo-screenlocker
 | `Win + grave`  | 顯示工作空間選單 | `ShowDesktopGrid=` |
 
 
-> grave means `
+> 關於「grave」指的是「`」，也就是「~」那個按鍵，通常在「`Tab`」上方那個按鍵。
 
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L63)
