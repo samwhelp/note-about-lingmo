@@ -43,7 +43,7 @@ grand_parent: 設定
 
 * [設定片段: ~/.config/lingmoglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/lingmoglobalshortcutsrc#L22-L40)
 
-``` ini
+``` sh
 [Alt%2BShift%2BT]
 Comment=Terminal
 Exec=xfce4-terminal

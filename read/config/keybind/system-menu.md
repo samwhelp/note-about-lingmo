@@ -39,7 +39,7 @@ grand_parent: 設定
 
 * [設定片段: ~/.config/lingmoglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/lingmoglobalshortcutsrc#L14-L20)
 
-``` ini
+``` sh
 [Alt%2BF1]
 Comment=App Launcher
 Exec=lingmo-launcher
@@ -67,7 +67,7 @@ Exec=lingmo-launcher
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L138)
 
-``` ini
+``` sh
 Window Operations Menu=Alt+Space\tAlt+F3,Alt+F3,Window Operations Menu
 ```
 
@@ -83,7 +83,7 @@ Window Operations Menu=Alt+Space\tAlt+F3,Alt+F3,Window Operations Menu
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L49)
 
-``` ini
+``` sh
 ExposeAll=Ctrl+F10\tMeta+C\tLaunch (C),Ctrl+F10\tLaunch (C),Toggle Present Windows (All desktops)
 ```
 
@@ -100,7 +100,7 @@ ExposeAll=Ctrl+F10\tMeta+C\tLaunch (C),Ctrl+F10\tLaunch (C),Toggle Present Windo
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L207-L210)
 
-``` ini
+``` sh
 [org.kde.krunner.desktop]
 RunClipboard=Alt+Shift+F2,Alt+Shift+F2,Run command on clipboard contents
 _k_friendly_name=KRunner

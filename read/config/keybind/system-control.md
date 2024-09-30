@@ -34,7 +34,7 @@ grand_parent: 設定
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L62)
 
-``` ini
+``` sh
 Show Desktop=Meta+D,Meta+D,Show Desktop
 ```
 
@@ -50,7 +50,7 @@ Show Desktop=Meta+D,Meta+D,Show Desktop
 
 * [設定片段: ~/.config/lingmoglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/lingmoglobalshortcutsrc#L6-L8)
 
-``` ini
+``` sh
 [Alt%2BShift%2BX]
 Comment=Leave
 Exec=lingmo-shutdown
@@ -67,7 +67,7 @@ Exec=lingmo-shutdown
 
 * [設定片段: ~/.config/lingmoglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/lingmoglobalshortcutsrc#L2-L4)
 
-``` ini
+``` sh
 [Alt%2BShift%2BL]
 Comment=Lock
 Exec=lingmo-screenlocker
@@ -87,7 +87,7 @@ Exec=lingmo-screenlocker
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L63)
 
-``` ini
+``` sh
 ShowDesktopGrid=Meta+`\tMeta+F8,Meta+F8,Show Desktop Grid
 ```
 
@@ -107,6 +107,6 @@ ShowDesktopGrid=Meta+`\tMeta+F8,Meta+F8,Show Desktop Grid
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L48)
 
-``` ini
+``` sh
 Expose=Ctrl+F9\tMeta+Tab,Ctrl+F9,Toggle Present Windows (Current desktop)
 ```

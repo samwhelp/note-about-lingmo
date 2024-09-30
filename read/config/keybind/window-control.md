@@ -45,7 +45,7 @@ grand_parent: 設定
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L121)
 
-``` ini
+``` sh
 Window Close=Meta+Q,Alt+F4,Close Window
 ```
 
@@ -62,7 +62,7 @@ Window Close=Meta+Q,Alt+F4,Close Window
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L122)
 
-``` ini
+``` sh
 Window Fullscreen=F11\tMeta+F,none,Make Window Fullscreen
 ```
 
@@ -81,7 +81,7 @@ Window Fullscreen=F11\tMeta+F,none,Make Window Fullscreen
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L126)
 
-``` ini
+``` sh
 Window Maximize=Meta+W\tMeta+PgUp,Meta+PgUp,Maximize Window
 ```
 
@@ -97,7 +97,7 @@ Window Maximize=Meta+W\tMeta+PgUp,Meta+PgUp,Maximize Window
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L129)
 
-``` ini
+``` sh
 Window Minimize=Meta+X\tMeta+PgDown,Meta+PgDown,Minimize Window
 ```
 
@@ -120,7 +120,7 @@ Window Minimize=Meta+X\tMeta+PgDown,Meta+PgDown,Minimize Window
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L130)
 
-``` ini
+``` sh
 Window Move=Meta+E,none,Move Window
 ```
 
@@ -143,7 +143,7 @@ Window Move=Meta+E,none,Move Window
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L152)
 
-``` ini
+``` sh
 Window Resize=Meta+R,none,Resize Window
 ```
 
@@ -159,7 +159,7 @@ Window Resize=Meta+R,none,Resize Window
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L119)
 
-``` ini
+``` sh
 Window Above Other Windows=Meta+T,none,Keep Window Above Others
 ```
 
@@ -175,7 +175,7 @@ Window Above Other Windows=Meta+T,none,Keep Window Above Others
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L120)
 
-``` ini
+``` sh
 Window Below Other Windows=Meta+B,none,Keep Window Below Others
 ```
 
@@ -191,7 +191,7 @@ Window Below Other Windows=Meta+B,none,Keep Window Below Others
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L153)
 
-``` ini
+``` sh
 Window Shade=Meta+Y,none,Shade Window
 ```
 
@@ -210,7 +210,7 @@ Window Shade=Meta+Y,none,Shade Window
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L132)
 
-``` ini
+``` sh
 Window No Border=Meta+N,none,Hide Window Border
 ```
 
@@ -229,7 +229,7 @@ Window No Border=Meta+N,none,Hide Window Border
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L106)
 
-``` ini
+``` sh
 Toggle Window Raise/Lower=Meta+Z,none,Toggle Window Raise/Lower
 ```
 
@@ -245,7 +245,7 @@ Toggle Window Raise/Lower=Meta+Z,none,Toggle Window Raise/Lower
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L131)
 
-``` ini
+``` sh
 Window Move Center=Meta+M,none,Move Window to the Center
 ```
 
@@ -262,13 +262,13 @@ Window Move Center=Meta+M,none,Move Window to the Center
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L47)
 
-``` ini
+``` sh
 Increase Opacity=Meta+',none,Increase Opacity of Active Window by 5 %
 ```
 
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L51)
 
-``` ini
+``` sh
 Decrease Opacity=Meta+;,none,Decrease Opacity of Active Window by 5 %
 ```
