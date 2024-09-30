@@ -32,7 +32,7 @@ grand_parent: 設定
 | `Alt + Shift + b` | 開啟網頁瀏覽器 | `firefox --new-tab about:blank` |
 
 
-* [設定片段: ~/.config/lingmoglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/lingmoglobalshortcutsrc#L38-L52)
+* [設定片段: ~/.config/lingmoglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/lingmoglobalshortcutsrc#L42-L56)
 
 ``` ini
 [Alt%2BShift%2BF]

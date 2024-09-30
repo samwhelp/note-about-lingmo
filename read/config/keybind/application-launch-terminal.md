@@ -41,7 +41,7 @@ grand_parent: 設定
 | `Alt + Ctrl + t`  | 開啟 Terminal | `qterminal`                 |
 
 
-* [設定片段: ~/.config/lingmoglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/lingmoglobalshortcutsrc#L18-L36)
+* [設定片段: ~/.config/lingmoglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/lingmoglobalshortcutsrc#L22-L40)
 
 ``` ini
 [Alt%2BShift%2BT]
