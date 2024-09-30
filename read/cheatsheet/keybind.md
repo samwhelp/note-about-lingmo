@@ -91,6 +91,29 @@ parent: 一覽表
 
 
 
+## 視窗操作
+
+| 按鍵組合   | 功能      | 執行指令         |
+| ---------- | --------- | ---------------- |
+| `Win + q`  | 關閉視窗  | `Window Close=`  |
+| `Win + f`  | 視窗全螢幕  | `Window Fullscreen=`  |
+| `F11`      | 視窗全螢幕  | `Window Fullscreen=`  |
+| `Win + w`  | 視窗最大化  | `Window Maximize=`  |
+| `Win + x`  | 視窗最小化  | `Window Minimize=`  |
+| `Win + e`  | 開始「視窗移動」  | `Window Move=`  |
+| `Win + r`  | 開始「視窗更改大小」  | `Window Resize=`  |
+| `Win + t`  | 視窗保持永遠在最上方  | `Window Above Other Windows=`  |
+| `Win + b`  | 視窗保持永遠在最下方  | `Window Below Other Windows=`  |
+| `Win + y`  | 視窗內容區塊收合  | `Window Shade=`  |
+| `Win + n`  | 切換顯示隱藏視窗裝飾(Decorations)  | `Window No Border=`  |
+| `Win + z`  | 將下方視窗移上來  | `Toggle Window Raise/Lower=`  |
+| `Win + m`  | 視窗移動至畫面中央部位  | `Window Move Center`  |
+| `Win + ;`  | 視窗更加透明  | `Decrease Opacity=`  |
+| `Win + '`  | 視窗更不透明  | `Increase Opacity=`  |
+
+
+
+
 ## 相關連結
 
 | 相關連結 |
