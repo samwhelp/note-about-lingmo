@@ -29,6 +29,7 @@ parent: 一覽表
 ## 系統操作
 
 | 按鍵組合           | 功能             | 執行指令             |
+| ----------------- | ------------- | --------------------------- |
 | `Alt + Shift + x`  | 顯示「離開系統選單」 | `lingmo-shutdown`    |
 | `Alt + Shift + l`  | 鎖住螢幕     | `lingmo-screenlocker` |
 | `Win + d`          | 切換「顯示桌面」 | `Show Desktop=`      |
