@@ -20,7 +20,7 @@ grand_parent: 設定
 * [登出或關閉系統](#登出或關閉系統)
 * [鎖住螢幕](#鎖住螢幕)
 * [顯示「工作空間選單」](#顯示工作空間選單)
-* [切換顯示目前工作空間的所有視窗預覽](#切換顯示目前工作空間的所有視窗預覽)
+* [切換「顯示目前工作空間的所有視窗預覽」](#切換顯示目前工作空間的所有視窗預覽)
 
 
 
@@ -98,11 +98,11 @@ ShowDesktopGrid=Meta+`\tMeta+F8,Meta+F8,Show Desktop Grid
 
 
 
-## 切換顯示目前工作空間的所有視窗預覽
+## 切換「顯示目前工作空間的所有視窗預覽」
 
 | 按鍵組合           | 功能                                     | 執行指令             |
 | ------------------ | ---------------------------------------- | -------------------- |
-| `Win + Tab`        | Toggle Present Windows (Current desktop) | `Expose=`            |
+| `Win + Tab`        | 切換「顯示目前工作空間的所有視窗預覽」   | `Expose=`            |
 
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L48)
