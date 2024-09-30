@@ -18,6 +18,8 @@ grand_parent: 設定
 
 * [切換「顯示桌面」](#切換顯示桌面)
 * [登出或關閉系統](#登出或關閉系統)
+* [鎖住螢幕](#鎖住螢幕)
+* [顯示工作空間選單](#顯示工作空間選單)
 
 
 
@@ -27,6 +29,7 @@ grand_parent: 設定
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
 | `Win + d`  | Toggle Show Desktop | `Show Desktop=` |
+
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L62)
 
@@ -43,6 +46,7 @@ Show Desktop=Meta+D,Meta+D,Show Desktop
 | ----------------- | ------------ | -------------------- |
 | `Alt + Shift + x`  | 離開系統選單 | `lingmo-shutdown` |
 
+
 * [設定片段: ~/.config/lingmoglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/lingmoglobalshortcutsrc#L6-L8)
 
 ``` ini
@@ -55,31 +59,42 @@ Exec=lingmo-shutdown
 
 ## 鎖住螢幕
 
-* [設定片段](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L45)
+| 按鍵組合           | 功能        | 執行指令             |
+| ----------------- | ------------ | -------------------- |
+| `Alt + Shift + l`  | 鎖住螢幕 | `lingmo-screenlocker` |
+
+
+* [設定片段: ~/.config/lingmoglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/lingmoglobalshortcutsrc#L2-L4)
+
+``` ini
+[Alt%2BShift%2BL]
+Comment=Lock
+Exec=lingmo-screenlocker
+```
+
+
+
+## 顯示工作空間選單
 
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
-| `Alt + Shift + z`  | Show Screen Lock Panel | `Lock Session=` |
+| `Win + grave`  | 顯示工作空間選單 | `ShowDesktopGrid=` |
 
-
-## 休眠
-
-* [設定片段](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L248)
-
-| 按鍵組合           | 功能        | 執行指令             |
-| ----------------- | ------------ | -------------------- |
-| `Alt + Ctrl + z`  | Suspend | `Sleep=` |
-
-
-## Toggle Overview
-
-* [設定片段](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L66)
-
-| 按鍵組合           | 功能        | 執行指令             |
-| ----------------- | ------------ | -------------------- |
-| `Win + grave`  | Toggle Overview | `Overview=` |
 
 > grave means `
+
+
+* [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L63)
+
+``` ini
+ShowDesktopGrid=Meta+`\tMeta+F8,Meta+F8,Show Desktop Grid
+```
+
+> 另外也可以執行「`Alt + a`」切換到「上一個工作空間」。
+
+> 另外也可以執行「`Alt + s`」切換到「下一個工作空間」。
+
+
 
 
 ## Toggle Present Windows
