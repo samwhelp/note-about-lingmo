@@ -62,8 +62,9 @@ grand_parent: 設定
 
 
 
-## 用法對照
+## 對照用法
 
+* [視窗聚焦切換](https://samwhelp.github.io/note-about-lingmo/read/config/keybind/window-focus.html)
 * [視窗移到指定工作空間](https://samwhelp.github.io/note-about-kubuntu/read/config/keybind/window-move-to-workspace.html)
 * [應用程式切換 Tab Page](https://samwhelp.github.io/note-about-kubuntu/read/config/keybind/application-tab-page.html)
 * [聚焦或開啟常用的應用程式](https://samwhelp.github.io/note-about-kubuntu/read/config/keybind/application-focus-or-launch-favorite.html)
