@@ -25,10 +25,10 @@ grand_parent: 設定
 
 ## 顯示「應用程式啟動選單」
 
-| 按鍵組合           | 功能        | 執行指令             |
-| ----------------- | ------------ | -------------------- |
-| `Alt + F1`  | 顯示「應用程式啟動選單」 | `lingmo-launcher` |
-| `Win + Space`  | 顯示「應用程式啟動選單」 | `lingmo-launcher` |
+| 按鍵組合          | 功能                     | 執行指令             |
+| ----------------- | ------------------------ | -------------------- |
+| `Alt + F1`        | 顯示「應用程式啟動選單」 | `lingmo-launcher`    |
+| `Win + Space`     | 顯示「應用程式啟動選單」 | `lingmo-launcher`    |
 
 
 > 使用「Win鍵」顯示「開始功能表」的功能被我停用了。
@@ -55,10 +55,10 @@ Exec=lingmo-launcher
 
 * [設定片段](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L144)
 
-| 按鍵組合           | 功能        | 執行指令             |
-| ----------------- | ------------ | -------------------- |
-| `Alt + F3`  | 顯示「視窗操作選單」 | `Window Operations Menu=` |
-| `Alt + Space`  | 顯示「視窗操作選單」 | `Window Operations Menu=` |
+| 按鍵組合           | 功能                 | 執行指令                  |
+| ------------------ | -------------------- | ------------------------- |
+| `Alt + F3`         | 顯示「視窗操作選單」 | `Window Operations Menu=` |
+| `Alt + Space`      | 顯示「視窗操作選單」 | `Window Operations Menu=` |
 
 
 > 也可以在「視窗標題列」使用「滑鼠右鍵」，就會顯示「視窗操作選單」。
@@ -75,9 +75,9 @@ Window Operations Menu=Alt+Space\tAlt+F3,Alt+F3,Window Operations Menu
 
 ## 顯示「所有開啟視窗預覽」
 
-| 按鍵組合           | 功能        | 執行指令             |
-| ----------------- | ------------ | -------------------- |
-| `Win + c`  | Toggle Present Windows (All desktops) | `ExposeAll=` |
+| 按鍵組合          | 功能                     | 執行指令             |
+| ----------------- | ------------------------ | -------------------- |
+| `Win + c`         | 顯示「所有開啟視窗預覽」 | `ExposeAll=`         |
 
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L49)
@@ -91,9 +91,9 @@ ExposeAll=Ctrl+F10\tMeta+C\tLaunch (C),Ctrl+F10\tLaunch (C),Toggle Present Windo
 
 ## krunner
 
-| 按鍵組合           | 功能        | 執行指令             |
+| 按鍵組合          | 功能         | 執行指令             |
 | ----------------- | ------------ | -------------------- |
-| `Alt + F2`  | 執行 krunner | `krunner` |
+| `Alt + F2`        | 執行 krunner | `krunner`            |
 
 > 有設定按鍵綁定，但目前沒有安裝「krunner」，所以此按鍵綁定目前沒有功能。
 
