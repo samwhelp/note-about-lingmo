@@ -65,8 +65,6 @@ parent: 設定
 | --- |
 | [開啟 Terminal](keybind/application-launch-terminal) |
 | [開啟常用的應用程式](keybind/application-launch-favorite) |
-| [聚焦或開啟常用的應用程式](keybind/application-focus-or-launch-favorite) |
-| [使用 Rofi 開啟應用程式](keybind/application-launch-rofi) |
 
 
 
