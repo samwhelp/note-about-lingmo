@@ -48,7 +48,7 @@ Walk Through Windows (Reverse)=Meta+A,Alt+Shift+Backtab,Walk Through Windows (Re
 
 * [設定片段: ~/.config/kwinrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kwinrc#L59-L60)
 
-``` sh
+``` ini
 [TabBox]
 LayoutName=ling_thumbnail
 ```
@@ -77,7 +77,7 @@ Walk Through Windows Alternative (Reverse)=Alt+Esc,none,Walk Through Windows Alt
 
 * [設定片段: ~/.config/kwinrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kwinrc#L62-L63)
 
-``` sh
+``` ini
 [TabBoxAlternative]
 LayoutName=present_windows
 ```
