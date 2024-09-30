@@ -34,6 +34,12 @@ parent: 一覽表
 | `Win + d`          | 切換「顯示桌面」 | `Show Desktop=`      |
 | `Win + grave`     | 顯示「工作空間選單」 | `ShowDesktopGrid=`   |
 | `Win + Tab`        | 切換「顯示目前工作空間的所有視窗預覽」   | `Expose=`            |
+| `Alt + F1`        | 顯示「應用程式啟動選單」 | `lingmo-launcher`    |
+| `Win + Space`     | 顯示「應用程式啟動選單」 | `lingmo-launcher`    |
+| `Alt + F3`         | 顯示「視窗操作選單」 | `Window Operations Menu=` |
+| `Alt + Space`      | 顯示「視窗操作選單」 | `Window Operations Menu=` |
+| `Win + c`         | 顯示「所有開啟視窗預覽」 | `ExposeAll=`         |
+| `Alt + F2`        | 執行 krunner | `krunner`            |
 
 
 
