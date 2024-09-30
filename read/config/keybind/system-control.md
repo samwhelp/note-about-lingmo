@@ -17,6 +17,7 @@ grand_parent: 設定
 ## 主題
 
 * [切換「顯示桌面」](#切換顯示桌面)
+* [登出或關閉系統](#登出或關閉系統)
 
 
 
@@ -34,14 +35,22 @@ Show Desktop=Meta+D,Meta+D,Show Desktop
 ```
 
 
-## 登出或關閉系統
 
-* [設定片段](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L46)
+
+## 登出或關閉系統
 
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
-| `Alt + Shift + x`  | Show Exit Panel | `Log Out=` |
-| `Alt + Ctrl + Delete`  | Show Exit Panel | `Log Out=` |
+| `Alt + Shift + x`  | 離開系統選單 | `lingmo-shutdown` |
+
+* [設定片段: ~/.config/lingmoglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/lingmoglobalshortcutsrc#L6-L8)
+
+``` ini
+[Alt%2BShift%2BX]
+Comment=Leave
+Exec=lingmo-shutdown
+```
+
 
 
 ## 鎖住螢幕
