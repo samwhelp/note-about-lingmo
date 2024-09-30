@@ -30,8 +30,8 @@ parent: 一覽表
 
 > 關於「按鍵綁定」的設定檔，有兩個如下
 
-| Config File |
-| ----------- |
+| 設定檔 |
+| ----- |
 | [~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc) |
 | [~/.config/lingmoglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/lingmoglobalshortcutsrc) |
 
