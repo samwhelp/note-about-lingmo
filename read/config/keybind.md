@@ -8,6 +8,8 @@ parent: 設定
 
 # 按鍵綁定
 
+> [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-lingmo/read/cheatsheet/keybind.html)
+
 
 
 
