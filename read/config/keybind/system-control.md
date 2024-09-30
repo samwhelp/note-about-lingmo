@@ -12,13 +12,26 @@ grand_parent: 設定
 > [Lingmo 微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark)
 
 
-## 切換「顯示桌面」
 
-* [設定片段](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L68)
+
+## 主題
+
+* [切換「顯示桌面」](#切換顯示桌面)
+
+
+
+
+## 切換「顯示桌面」
 
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
 | `Win + d`  | Toggle Show Desktop | `Show Desktop=` |
+
+* [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L62)
+
+``` ini
+Show Desktop=Meta+D,Meta+D,Show Desktop
+```
 
 
 ## 登出或關閉系統
