@@ -30,8 +30,9 @@ grand_parent: 設定
 | `Alt + F1`        | 顯示「應用程式啟動選單」 | `lingmo-launcher`    |
 | `Win + Space`     | 顯示「應用程式啟動選單」 | `lingmo-launcher`    |
 
+> 因為我個人會使用「`Win`」搭配「其他鍵」當作「組合鍵」來做一些操作，為了避免一些干擾，
 
-> 使用「Win鍵」顯示「開始功能表」的功能被我停用了。
+> 所以使用「Win鍵」顯示「開始功能表」的功能被我停用了。
 
 > 請參考『[停用「Win鍵」開啟「開始功能表」](https://samwhelp.github.io/note-about-kubuntu/read/howto/disable-opening-application-launcher-with-super-key.html)』
 
