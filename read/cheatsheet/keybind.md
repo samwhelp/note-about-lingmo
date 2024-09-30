@@ -26,6 +26,18 @@ parent: 一覽表
 
 
 
+## 設定檔
+
+> 關於「按鍵綁定」的設定檔，有兩個如下
+
+| Config File |
+| ----------- |
+| [~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc) |
+| [~/.config/lingmoglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/lingmoglobalshortcutsrc) |
+
+
+
+
 ## 系統操作
 
 | 按鍵組合           | 功能                                    | 執行指令                   |

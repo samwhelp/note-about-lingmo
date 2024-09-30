@@ -33,12 +33,14 @@ parent: 設定
 
 請參考「[我的設定檔](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config)」。
 
-關於「按鍵綁定」的設定檔有兩個，如下
+
+> 關於「按鍵綁定」的設定檔，有兩個如下
 
 | Config File |
 | ----------- |
 | [~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc) |
 | [~/.config/lingmoglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/lingmoglobalshortcutsrc) |
+
 
 > 其實可以單獨使用「~/.config/kglobalshortcutsrc」就可以實作想要的「按鍵綁定」，可以參考「[另一個範例](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/lingmo-config/locale/en_us/KglobalshortcutOnly-Lingmo-Dark)」。
 
