@@ -12,6 +12,8 @@ grand_parent: 設定
 > [Lingmo 微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark)
 
 
+
+
 ## 主題
 
 * [關閉視窗](#關閉視窗)
