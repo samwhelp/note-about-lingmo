@@ -18,8 +18,8 @@ grand_parent: 設定
 * [全螢幕](#全螢幕)
 * [最大化](#最大化)
 * [最小化](#最小化)
-* [開始視窗移動](#開始視窗移動)
-* [開始視窗更改大小](#開始視窗更改大小)
+* [開始「視窗移動」](#開始視窗移動)
+* [開始「視窗更改大小」](#開始視窗更改大小)
 * [永遠在最上方](#永遠在最上方)
 * [永遠在最下方](#永遠在最下方)
 * [內容區塊收合](#內容區塊收合)
@@ -29,19 +29,28 @@ grand_parent: 設定
 * [透明度](#透明度)
 
 
-## 關閉視窗
 
-* [設定片段](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L127)
+
+## 關閉視窗
 
 | 按鍵組合          | 功能     | 執行指令         |
 | ----------------- | -------- | ---------------- |
 | `Win + q`         | 關閉視窗 | `Window Close=` |
-| `Alt + F4`         | 關閉視窗 | `Window Close=` |
+
+
+> 一般是採用「`Alt + F4`」來「關閉視窗」。
+
+
+* [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L121)
+
+``` ini
+Window Close=Meta+Q,Alt+F4,Close Window
+```
+
+
 
 
 ## 全螢幕
-
-* [設定片段](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L128)
 
 | 按鍵組合          | 功能     | 執行指令         |
 | --------- | ---------- | ----------------------------- |
@@ -49,21 +58,36 @@ grand_parent: 設定
 | `F11` | 視窗全螢幕 | `Window Fullscreen=` |
 
 
-## 最大化
+* [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L122)
 
-* [設定片段](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L132)
+``` ini
+Window Fullscreen=F11\tMeta+F,none,Make Window Fullscreen
+```
+
+
+
+
+## 最大化
 
 | 按鍵組合          | 功能     | 執行指令         |
 | --------- | ---------- | ----------------------------- |
 | `Win + w` | 視窗最大化 | `Window Maximize=` |
 | `Win + PgUp` | 視窗最大化 | `Window Maximize=` |
 
+
 > 也可以在「標題列」，使用「滑鼠左鍵」，點選兩下，切換視窗最大化。
 
 
-## 最小化
+* [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L126)
 
-* [設定片段](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L135)
+``` ini
+Window Maximize=Meta+W\tMeta+PgUp,Meta+PgUp,Maximize Window
+```
+
+
+
+
+## 最小化
 
 | 按鍵組合          | 功能     | 執行指令         |
 | --------- | ---------- | ----------------------------- |
@@ -71,91 +95,180 @@ grand_parent: 設定
 | `Win + PgDown` | 視窗最小化 | `Window Minimize=` |
 
 
-## 開始視窗移動
+* [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L129)
 
-* [設定片段](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L136)
+``` ini
+Window Minimize=Meta+PgDown\tMeta+X,Meta+PgDown,Minimize Window
+```
+
+
+
+
+## 開始「視窗移動」
 
 | 按鍵組合          | 功能     | 執行指令         |
 | --------- | ---------- | ----------------------------- |
-| `Win + e` | 開始視窗移動 | `Window Move=` |
+| `Win + e` | 開始「視窗移動」 | `Window Move=` |
+
 
 > 按「Escape」鍵，取消「開始視窗移動」。
 
+> 我比較常用的是另一種方式，採用「`Win + [滑鼠左鍵按住拖曳]`」來「移動視窗」。
 
-## 開始視窗更改大小
+> 也可以在「視窗標題列」，採用「`[滑鼠左鍵按住拖曳]`」來「移動視窗」。
 
-* [設定片段](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L158)
+
+* [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L130)
+
+``` ini
+Window Move=Meta+E,none,Move Window
+```
+
+
+
+
+## 開始「視窗更改大小」
 
 | 按鍵組合          | 功能     | 執行指令         |
 | --------- | ---------- | ----------------------------- |
-| `Win + r` | 開始視窗更改大小 | `Window Resize=` |
+| `Win + r` | 開始「視窗更改大小」 | `Window Resize=` |
+
 
 > 按「Escape」取消「開始視窗更改大小」。
 
+> 我比較常用的是另一種方式，採用「`Win + [滑鼠右鍵按住拖曳]`」來「更改視窗大小」。
+
+> 也可以在「視窗八方邊界」，採用「`[滑鼠左鍵按住拖曳]`」來「更改視窗大小」。
+
+
+* [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L152)
+
+``` ini
+Window Resize=Meta+R,none,Resize Window
+```
+
+
+
 
 ## 永遠在最上方
-
-* [設定片段](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L125)
 
 | 按鍵組合          | 功能     | 執行指令         |
 | --------- | ---------- | ----------------------------- |
 | `Win + t` | 視窗保持永遠在最上方 | `Window Above Other Windows=` |
 
 
-## 永遠在最下方
+* [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L119)
 
-* [設定片段](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L126)
+``` ini
+Window Above Other Windows=Meta+T,none,Keep Window Above Others
+```
+
+
+
+
+## 永遠在最下方
 
 | 按鍵組合          | 功能     | 執行指令         |
 | --------- | ---------- | ----------------------------- |
 | `Win + b` | 視窗保持永遠在最下方 | `Window Below Other Windows=` |
 
 
-## 內容區塊收合
+* [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L120)
 
-* [設定片段](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L159)
+``` ini
+Window Below Other Windows=Meta+B,none,Keep Window Below Others
+```
+
+
+
+
+## 內容區塊收合
 
 | 按鍵組合          | 功能     | 執行指令         |
 | --------- | ---------- | ----------------------------- |
 | `Win + y` | 視窗內容區塊收合 | `Window Shade=` |
 
 
-## 切換顯示隱藏視窗裝飾
+* [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L153)
 
-* [設定片段](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L138)
+``` ini
+Window Shade=Meta+Y,none,Shade Window
+```
+
+
+
+
+## 切換顯示隱藏視窗裝飾
 
 | 按鍵組合          | 功能     | 執行指令         |
 | --------- | ---------- | ----------------------------- |
 | `Win + n` | 切換顯示隱藏視窗裝飾(Decorations) | `Window No Border=` |
 
+
 > 視窗裝飾(Decorations)，最明顯的，就可以看到標題列隱藏或是顯示。
 
 
-## 將下方視窗移上來
+* [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L132)
 
-* [設定片段](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L112)
+``` ini
+Window No Border=Meta+N,none,Hide Window Border
+```
+
+
+
+
+## 將下方視窗移上來
 
 | 按鍵組合          | 功能     | 執行指令         |
 | --------- | ---------- | ----------------------------- |
 | `Win + z` | 將下方視窗移上來 | `Toggle Window Raise/Lower=` |
 
 
-## 視窗移動至畫面中央部位
+> 反覆按，就會形成在最上方的兩個視窗做切換。
 
-* [設定片段](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L137)
+
+* [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L106)
+
+``` ini
+Toggle Window Raise/Lower=Meta+Z,none,Toggle Window Raise/Lower
+```
+
+
+
+
+## 視窗移動至畫面中央部位
 
 | 按鍵組合          | 功能     | 執行指令         |
 | --------- | ---------- | ----------------------------- |
 | `Win + m` | 視窗移動至畫面中央部位 | `Window Move Center` |
 
 
+* [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L131)
+
+``` ini
+Window Move Center=Meta+M,none,Move Window to the Center
+```
+
+
+
+
 ## 透明度
-
-
-* [設定片段](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L53)
-* [設定片段](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L57)
 
 | 按鍵組合          | 功能     | 執行指令         |
 | --------- | ---------- | ----------------------------- |
 | `Win + ;` | 視窗更加透明 | `Decrease Opacity=` |
 | `Win + '` | 視窗更不透明 | `Increase Opacity=` |
+
+
+* [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L47)
+
+``` ini
+Increase Opacity=Meta+',none,Increase Opacity of Active Window by 5 %
+```
+
+
+* [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L51)
+
+``` ini
+Decrease Opacity=Meta+;,none,Decrease Opacity of Active Window by 5 %
+```
