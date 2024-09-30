@@ -16,12 +16,13 @@ grand_parent: 設定
 
 ## 主題
 
-* [一般](#一般)
+* [一般終端機](#一般終端機)
+* [相關議題](#相關議題)
 
 
 
 
-## 一般
+## 一般終端機
 
 | 按鍵組合          | 功能         | 執行指令                     |
 | ----------------- | ------------- | --------------------------- |
@@ -63,3 +64,10 @@ Exec=lingmo-terminal
 Comment=Terminal
 Exec=sakura
 ```
+
+
+
+
+## 相關議題
+
+* [鍵盤按鍵綁定 / 開啟常用的應用程式](https://samwhelp.github.io/note-about-lingmo/read/config/keybind/application-launch-favorite.html)

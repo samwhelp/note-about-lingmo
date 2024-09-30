@@ -18,6 +18,7 @@ grand_parent: 設定
 
 * [常用的應用程式](#常用的應用程式)
 * [其他](#其他)
+* [相關議題](#相關議題)
 
 
 
@@ -57,3 +58,10 @@ Exec=firefox --new-tab about:blank
 ## 其他
 
 > 可以按下「`Alt + F1`」執行「`lingmo-launcher`」，就可以找到其他的「應用程式」來執行
+
+
+
+
+## 相關議題
+
+* [鍵盤按鍵綁定 / 開啟終端機](https://samwhelp.github.io/note-about-lingmo/read/config/keybind/application-launch-terminal.html)
