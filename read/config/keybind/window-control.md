@@ -104,9 +104,9 @@ Window Minimize=Meta+X\tMeta+PgDown,Meta+PgDown,Minimize Window
 
 ## 開始「視窗移動」
 
-| 按鍵組合          | 功能     | 執行指令         |
-| --------- | ---------- | ----------------------------- |
-| `Win + e` | 開始「視窗移動」 | `Window Move=` |
+| 按鍵組合   | 功能              | 執行指令        |
+| ---------- | ----------------- | --------------- |
+| `Win + e`  | 開始「視窗移動」  | `Window Move=`  |
 
 
 > 按「Escape」鍵，取消「開始視窗移動」。
@@ -127,9 +127,9 @@ Window Move=Meta+E,none,Move Window
 
 ## 開始「視窗更改大小」
 
-| 按鍵組合          | 功能     | 執行指令         |
-| --------- | ---------- | ----------------------------- |
-| `Win + r` | 開始「視窗更改大小」 | `Window Resize=` |
+| 按鍵組合   | 功能                  | 執行指令          |
+| ---------- | --------------------- | ----------------- |
+| `Win + r`  | 開始「視窗更改大小」  | `Window Resize=`  |
 
 
 > 按「Escape」取消「開始視窗更改大小」。
@@ -150,9 +150,9 @@ Window Resize=Meta+R,none,Resize Window
 
 ## 永遠在最上方
 
-| 按鍵組合          | 功能     | 執行指令         |
-| --------- | ---------- | ----------------------------- |
-| `Win + t` | 視窗保持永遠在最上方 | `Window Above Other Windows=` |
+| 按鍵組合   | 功能                  | 執行指令                       |
+| ---------- | --------------------- | ------------------------------ |
+| `Win + t`  | 視窗保持永遠在最上方  | `Window Above Other Windows=`  |
 
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L119)
@@ -166,9 +166,9 @@ Window Above Other Windows=Meta+T,none,Keep Window Above Others
 
 ## 永遠在最下方
 
-| 按鍵組合          | 功能     | 執行指令         |
-| --------- | ---------- | ----------------------------- |
-| `Win + b` | 視窗保持永遠在最下方 | `Window Below Other Windows=` |
+| 按鍵組合   | 功能                  | 執行指令                       |
+| ---------- | --------------------- | ------------------------------ |
+| `Win + b`  | 視窗保持永遠在最下方  | `Window Below Other Windows=`  |
 
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L120)
@@ -182,9 +182,9 @@ Window Below Other Windows=Meta+B,none,Keep Window Below Others
 
 ## 內容區塊收合
 
-| 按鍵組合          | 功能     | 執行指令         |
-| --------- | ---------- | ----------------------------- |
-| `Win + y` | 視窗內容區塊收合 | `Window Shade=` |
+| 按鍵組合   | 功能              | 執行指令         |
+| ---------- | ----------------- | ---------------- |
+| `Win + y`  | 視窗內容區塊收合  | `Window Shade=`  |
 
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L153)
@@ -198,9 +198,9 @@ Window Shade=Meta+Y,none,Shade Window
 
 ## 切換顯示隱藏視窗裝飾
 
-| 按鍵組合          | 功能     | 執行指令         |
-| --------- | ---------- | ----------------------------- |
-| `Win + n` | 切換顯示隱藏視窗裝飾(Decorations) | `Window No Border=` |
+| 按鍵組合   | 功能                               | 執行指令             |
+| ---------- | ---------------------------------- | -------------------- |
+| `Win + n`  | 切換顯示隱藏視窗裝飾(Decorations)  | `Window No Border=`  |
 
 
 > 視窗裝飾(Decorations)，最明顯的，就可以看到標題列隱藏或是顯示。
@@ -217,12 +217,12 @@ Window No Border=Meta+N,none,Hide Window Border
 
 ## 將下方視窗移上來
 
-| 按鍵組合          | 功能     | 執行指令         |
-| --------- | ---------- | ----------------------------- |
-| `Win + z` | 將下方視窗移上來 | `Toggle Window Raise/Lower=` |
+| 按鍵組合   | 功能              | 執行指令                      |
+| ---------- | ----------------- | ----------------------------- |
+| `Win + z`  | 將下方視窗移上來  | `Toggle Window Raise/Lower=`  |
 
 
-> 反覆按，就會形成在最上方的兩個視窗做切換。
+> 反覆按，就會形成在最上方兩個視窗做切換的效果。
 
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L106)
@@ -236,9 +236,9 @@ Toggle Window Raise/Lower=Meta+Z,none,Toggle Window Raise/Lower
 
 ## 視窗移動至畫面中央部位
 
-| 按鍵組合          | 功能     | 執行指令         |
-| --------- | ---------- | ----------------------------- |
-| `Win + m` | 視窗移動至畫面中央部位 | `Window Move Center` |
+| 按鍵組合   | 功能                    | 執行指令              |
+| ---------- | ----------------------- | --------------------- |
+| `Win + m`  | 視窗移動至畫面中央部位  | `Window Move Center`  |
 
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L131)
@@ -252,10 +252,10 @@ Window Move Center=Meta+M,none,Move Window to the Center
 
 ## 透明度
 
-| 按鍵組合          | 功能     | 執行指令         |
-| --------- | ---------- | ----------------------------- |
-| `Win + ;` | 視窗更加透明 | `Decrease Opacity=` |
-| `Win + '` | 視窗更不透明 | `Increase Opacity=` |
+| 按鍵組合   | 功能          | 執行指令             |
+| ---------- | ------------- | -------------------- |
+| `Win + ;`  | 視窗更加透明  | `Decrease Opacity=`  |
+| `Win + '`  | 視窗更不透明  | `Increase Opacity=`  |
 
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L47)
