@@ -14,6 +14,7 @@
 
 * [微調腳本](#微調腳本)
 * [按鍵綁定](#按鍵綁定)
+* [一覽表](#一覽表)
 * [相關筆記](#相關筆記)
 
 
@@ -31,9 +32,18 @@
 ## 按鍵綁定
 
 | 按鍵綁定 |
-| --- |
+| ------- |
 | [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-lingmo/read/config/keybind.html) |
 | [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-lingmo/read/config/mousebind.html) |
+
+
+
+
+## 一覽表
+
+| [一覽表](https://samwhelp.github.io/note-about-lingmo/read/cheatsheet.html) |
+| ----- |
+| [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-lingmo/read/cheatsheet/keybind.html) |
 
 
 
