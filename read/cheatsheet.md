@@ -6,3 +6,7 @@ has_children: true
 
 
 # 一覽表
+
+| 一覽表 |
+| ----- |
+| [鍵盤按鍵綁定一覽表](cheatsheet/keybind) |
