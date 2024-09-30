@@ -24,13 +24,13 @@ grand_parent: 設定
 
 ## 前後聚焦切換
 
-| 按鍵組合  | 功能                   | 執行指令               |
-| ----------| ---------------------- | ---------------------- |
-| `Win + a` | 聚焦切換到前面一個視窗 | `Walk Through Windows (Reverse)=` |
-| `Win + s` | 聚焦切換到後面一個視窗 | `Walk Through Windows=` |
+| 按鍵組合    | 功能                    | 執行指令                           |
+| ----------- | ----------------------- | ---------------------------------- |
+| `Win + a`   | 聚焦切換到前面一個視窗  | `Walk Through Windows (Reverse)=`  |
+| `Win + s`   | 聚焦切換到後面一個視窗  | `Walk Through Windows=`            |
 
 
-> 關於「`Win + s`」就是知名的「`Alt + Tab`」的功能。
+> 關於「`Win + s`」就是知名「`Alt + Tab`」的功能。
 
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L111-L112)
@@ -58,10 +58,10 @@ LayoutName=ling_thumbnail
 
 ## 前後聚焦切換 (Alternative)
 
-| 按鍵組合  | 功能                   | 執行指令               |
-| ----------| ---------------------- | ---------------------- |
-| `Win + Esc` | 聚焦切換到前面一個視窗 | `Walk Through Windows Alternative=` |
-| `Alt + Esc` | 聚焦切換到後面一個視窗 | `Walk Through Windows Alternative (Reverse)=` |
+| 按鍵組合     | 功能                    | 執行指令                                       |
+| ------------ | ----------------------- | ---------------------------------------------- |
+| `Win + Esc`  | 聚焦切換到前面一個視窗  | `Walk Through Windows Alternative=`            |
+| `Alt + Esc`  | 聚焦切換到後面一個視窗  | `Walk Through Windows Alternative (Reverse)=`  |
 
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L113-L114)
