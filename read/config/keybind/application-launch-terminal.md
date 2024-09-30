@@ -25,18 +25,18 @@ grand_parent: 設定
 
 | 按鍵組合          | 功能         | 執行指令                     |
 | ----------------- | ------------- | --------------------------- |
-| `Alt + Enter`     | 開啟 Terminal | `lingmo-terminal`                 |
+| `Alt + Enter`     | 開啟 Terminal | `lingmo-terminal`           |
 
 
 | 按鍵組合          | 功能         | 執行指令                     |
 | ----------------- | ------------- | --------------------------- |
-| `Alt + Shift + a` | 開啟 Terminal | `lingmo-terminal`                 |
-| `Alt + Ctrl + a`  | 開啟 Terminal | `sakura`                 |
+| `Alt + Shift + a` | 開啟 Terminal | `lingmo-terminal`           |
+| `Alt + Ctrl + a`  | 開啟 Terminal | `sakura`                    |
 
 
 | 按鍵組合          | 功能         | 執行指令                     |
 | ----------------- | ------------- | --------------------------- |
-| `Alt + Shift + t` | 開啟 Terminal | `xfce4-terminal`                 |
+| `Alt + Shift + t` | 開啟 Terminal | `xfce4-terminal`            |
 | `Alt + Ctrl + t`  | 開啟 Terminal | `qterminal`                 |
 
 
