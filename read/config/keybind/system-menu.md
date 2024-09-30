@@ -39,7 +39,7 @@ grand_parent: 設定
 
 * [設定片段: ~/.config/lingmoglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/lingmoglobalshortcutsrc#L14-L20)
 
-``` sh
+``` ini
 [Alt%2BF1]
 Comment=App Launcher
 Exec=lingmo-launcher

@@ -50,7 +50,7 @@ Show Desktop=Meta+D,Meta+D,Show Desktop
 
 * [設定片段: ~/.config/lingmoglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/lingmoglobalshortcutsrc#L6-L8)
 
-``` sh
+``` ini
 [Alt%2BShift%2BX]
 Comment=Leave
 Exec=lingmo-shutdown
@@ -67,7 +67,7 @@ Exec=lingmo-shutdown
 
 * [設定片段: ~/.config/lingmoglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/lingmoglobalshortcutsrc#L2-L4)
 
-``` sh
+``` ini
 [Alt%2BShift%2BL]
 Comment=Lock
 Exec=lingmo-screenlocker
