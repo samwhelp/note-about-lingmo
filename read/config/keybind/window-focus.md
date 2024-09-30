@@ -35,7 +35,7 @@ grand_parent: 設定
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L111-L112)
 
-``` ini
+``` sh
 Walk Through Windows=Meta+S,Alt+Tab,Walk Through Windows
 Walk Through Windows (Reverse)=Meta+A,Alt+Shift+Backtab,Walk Through Windows (Reverse)
 ```
@@ -66,7 +66,7 @@ LayoutName=ling_thumbnail
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L113-L114)
 
-``` ini
+``` sh
 Walk Through Windows Alternative=Meta+Esc,none,Walk Through Windows Alternative
 Walk Through Windows Alternative (Reverse)=Alt+Esc,none,Walk Through Windows Alternative (Reverse)
 ```
