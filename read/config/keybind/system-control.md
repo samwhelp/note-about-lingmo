@@ -19,7 +19,7 @@ grand_parent: 設定
 * [切換「顯示桌面」](#切換顯示桌面)
 * [登出或關閉系統](#登出或關閉系統)
 * [鎖住螢幕](#鎖住螢幕)
-* [顯示工作空間選單](#顯示工作空間選單)
+* [顯示「工作空間選單」](#顯示工作空間選單)
 * [切換顯示目前工作空間的所有視窗預覽](#切換顯示目前工作空間的所有視窗預覽)
 
 
@@ -27,9 +27,9 @@ grand_parent: 設定
 
 ## 切換「顯示桌面」
 
-| 按鍵組合           | 功能        | 執行指令             |
-| ----------------- | ------------ | -------------------- |
-| `Win + d`  | Toggle Show Desktop | `Show Desktop=` |
+| 按鍵組合           | 功能             | 執行指令             |
+| ------------------ | ---------------- | -------------------- |
+| `Win + d`          | 切換「顯示桌面」 | `Show Desktop=`      |
 
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L62)
@@ -43,9 +43,9 @@ Show Desktop=Meta+D,Meta+D,Show Desktop
 
 ## 登出或關閉系統
 
-| 按鍵組合           | 功能        | 執行指令             |
-| ----------------- | ------------ | -------------------- |
-| `Alt + Shift + x`  | 離開系統選單 | `lingmo-shutdown` |
+| 按鍵組合           | 功能                 | 執行指令             |
+| ------------------ | -------------------- | -------------------- |
+| `Alt + Shift + x`  | 顯示「離開系統選單」 | `lingmo-shutdown`    |
 
 
 * [設定片段: ~/.config/lingmoglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/lingmoglobalshortcutsrc#L6-L8)
@@ -60,9 +60,9 @@ Exec=lingmo-shutdown
 
 ## 鎖住螢幕
 
-| 按鍵組合           | 功能        | 執行指令             |
-| ----------------- | ------------ | -------------------- |
-| `Alt + Shift + l`  | 鎖住螢幕 | `lingmo-screenlocker` |
+| 按鍵組合           | 功能         | 執行指令              |
+| ------------------ | ------------ | --------------------- |
+| `Alt + Shift + l`  | 鎖住螢幕     | `lingmo-screenlocker` |
 
 
 * [設定片段: ~/.config/lingmoglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/lingmoglobalshortcutsrc#L2-L4)
@@ -75,11 +75,11 @@ Exec=lingmo-screenlocker
 
 
 
-## 顯示工作空間選單
+## 顯示「工作空間選單」
 
-| 按鍵組合           | 功能        | 執行指令             |
-| ----------------- | ------------ | -------------------- |
-| `Win + grave`  | 顯示工作空間選單 | `ShowDesktopGrid=` |
+| 按鍵組合          | 功能                 | 執行指令             |
+| ----------------- | -------------------- | -------------------- |
+| `Win + grave`     | 顯示「工作空間選單」 | `ShowDesktopGrid=`   |
 
 
 > 關於「grave」指的是「`」，也就是「~」那個按鍵，通常在「`Tab`」上方那個按鍵。
@@ -100,9 +100,9 @@ ShowDesktopGrid=Meta+`\tMeta+F8,Meta+F8,Show Desktop Grid
 
 ## 切換顯示目前工作空間的所有視窗預覽
 
-| 按鍵組合           | 功能        | 執行指令             |
-| ----------------- | ------------ | -------------------- |
-| `Win + Tab`  | Toggle Present Windows (Current desktop) | `Expose=` |
+| 按鍵組合           | 功能                                     | 執行指令             |
+| ------------------ | ---------------------------------------- | -------------------- |
+| `Win + Tab`        | Toggle Present Windows (Current desktop) | `Expose=`            |
 
 
 * [設定片段: ~/.config/kglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L48)
