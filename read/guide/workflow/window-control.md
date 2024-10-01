@@ -1,5 +1,5 @@
 ---
-title: 使用情境 / 視窗操作
+title: 使用情境 / 常用的視窗操作
 nav_order: 1040
 has_children: false
 parent: 工作流程
@@ -7,7 +7,7 @@ grand_parent: 概覽
 ---
 
 
-# 使用情境 / 視窗操作
+# 使用情境 / 常用的視窗操作
 
 
 
