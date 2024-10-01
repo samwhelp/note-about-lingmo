@@ -9,17 +9,17 @@ grand_parent: 設定
 
 # 應用程式切換「Tab Page」
 
-| 按鍵組合          | 功能     |
-| --------- | -------------------------------------------- |
-| `Alt + 1` | 切換到「Tab Page 1」 |
-| `Alt + 2` | 切換到「Tab Page 2」 |
-| `Alt + 3` | 切換到「Tab Page 3」 |
-| `Alt + 4` | 切換到「Tab Page 4」 |
-| `Alt + 5` | 切換到「Tab Page 5」 |
-| `Alt + 6` | 切換到「Tab Page 6」 |
-| `Alt + 7` | 切換到「Tab Page 7」 |
-| `Alt + 8` | 切換到「Tab Page 8」 |
-| `Alt + 9` | 切換到「Tab Page 9」 |
+| 按鍵組合   | 功能                  |
+| ---------- | --------------------- |
+| `Alt + 1`  | 切換到「Tab Page 1」  |
+| `Alt + 2`  | 切換到「Tab Page 2」  |
+| `Alt + 3`  | 切換到「Tab Page 3」  |
+| `Alt + 4`  | 切換到「Tab Page 4」  |
+| `Alt + 5`  | 切換到「Tab Page 5」  |
+| `Alt + 6`  | 切換到「Tab Page 6」  |
+| `Alt + 7`  | 切換到「Tab Page 7」  |
+| `Alt + 8`  | 切換到「Tab Page 8」  |
+| `Alt + 9`  | 切換到「Tab Page 9」  |
 
 
 > 大部分的應用程式，切換「Tab Page」，預設按鍵綁定是「Alt + 數字鍵」。
