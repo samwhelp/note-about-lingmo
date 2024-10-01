@@ -85,6 +85,6 @@ LayoutName=present_windows
 
 
 
-## 對照用法
+## 用法對照
 
 * [工作空間切換](https://samwhelp.github.io/note-about-lingmo/read/config/keybind/workspace-switch.html)
