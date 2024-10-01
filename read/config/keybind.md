@@ -91,7 +91,6 @@ parent: 設定
 | [工作空間切換](keybind/workspace-switch) |
 | [視窗移到指定工作空間](keybind/window-move-to-workspace) |
 | [桌面操作](keybind/desktop-control) |
-| [活動操作](keybind/activity-control) |
 
 
 
