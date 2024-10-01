@@ -28,7 +28,7 @@ grand_parent: 概覽
 
 ## 接下來
 
-> 接下來介紹「[檔案管理器導向的操作](https://samwhelp.github.io/note-about-lingmo/read/guide/workflow/file-manager-oriented.html)」
+> 接下來介紹「[檔案管理器導向的操作](https://samwhelp.github.io/note-about-lingmo/read/guide/workflow/file-manager-oriented.html)」。
 
 
 
