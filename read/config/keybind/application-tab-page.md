@@ -1,5 +1,5 @@
 ---
-title: 應用程式切換 Tab Page
+title: 應用程式切換「Tab Page」
 nav_order: 5017
 has_children: false
 parent: 按鍵綁定
@@ -7,10 +7,7 @@ grand_parent: 設定
 ---
 
 
-# 應用程式切換 Tab Page
-
-> [Lingmo 微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark)
-
+# 應用程式切換「Tab Page」
 
 | 按鍵組合          | 功能     |
 | --------- | -------------------------------------------- |
@@ -36,5 +33,4 @@ grand_parent: 設定
 
 * [工作空間切換](https://samwhelp.github.io/note-about-kubuntu/read/config/keybind/workspace-switch.html)
 * [視窗移到指定工作空間](https://samwhelp.github.io/note-about-kubuntu/read/config/keybind/window-move-to-workspace.html)
-* [聚焦或開啟常用的應用程式](https://samwhelp.github.io/note-about-kubuntu/read/config/keybind/application-focus-or-launch-favorite.html)
 * 通用鍵盤組合鍵操作 / [使用「上排數字鍵」相關的操作](https://samwhelp.github.io/system-modeling/read/zh_tw/spec-keybind/with-number-key)

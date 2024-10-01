@@ -21,7 +21,6 @@ parent: 設定
 * [視窗操作](#視窗操作)
 * [工作空間](#工作空間)
 * [統整對照](#統整對照)
-* [圖形使用者介面程式](#圖形使用者介面程式)
 
 
 
@@ -66,7 +65,7 @@ parent: 設定
 | --- |
 | [開啟 Terminal](keybind/application-launch-terminal) |
 | [開啟常用的應用程式](keybind/application-launch-favorite) |
-
+| [應用程式切換「Tab Page」](keybind/application-tab-page) |
 
 
 
@@ -97,14 +96,3 @@ parent: 設定
 * [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-lingmo/read/cheatsheet/keybind.html)
 * [按鍵操作快速上手指南](https://samwhelp.github.io/system-modeling/read/zh_tw/quick-start)
 * [通用鍵盤組合鍵操作](https://samwhelp.github.io/system-modeling/read/zh_tw/spec-keybind-common)
-
-
-
-
-## 圖形使用者介面程式
-
-* /usr/share/applications/kcm_keys.desktop
-
-``` sh
-systemsettings kcm_keys
-```
