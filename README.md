@@ -27,6 +27,12 @@
 | [Lingmo OS](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main) |
 
 
+| 微調腳本 | 設定檔   |
+| -------- | -------- |
+| [Lingmo-Dark](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark) | [設定檔](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config) |
+| [Lingmo-Dark](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Light) | [設定檔](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Light/asset/overlay/etc/skel/.config) |
+
+
 
 
 ## 按鍵綁定
