@@ -33,6 +33,8 @@ grand_parent: 設定
 | 4        | Term  |
 | 5        | Misc  |
 
+> 目前只有開啟「四個」工作空間
+
 
 
 

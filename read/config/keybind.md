@@ -20,9 +20,6 @@ parent: 設定
 * [開啟應用程式](#開啟應用程式)
 * [視窗操作](#視窗操作)
 * [工作空間](#工作空間)
-* [音量控制](#音量控制)
-* [螢幕亮度控制](#螢幕亮度控制)
-* [螢幕截圖](#螢幕截圖)
 * [統整對照](#統整對照)
 * [圖形使用者介面程式](#圖形使用者介面程式)
 
@@ -91,33 +88,6 @@ parent: 設定
 | [工作空間切換](keybind/workspace-switch) |
 | [視窗移到指定工作空間](keybind/window-move-to-workspace) |
 | [桌面操作](keybind/desktop-control) |
-
-
-
-
-## 音量控制
-
-| 主題 |
-| --- |
-| [音量控制](keybind/volume-control) |
-
-
-
-
-## 螢幕亮度控制
-
-| 主題 |
-| --- |
-| [螢幕亮度控制](keybind/monitor-brightness-control) |
-
-
-
-
-## 螢幕截圖
-
-| 主題 |
-| --- |
-| [螢幕截圖](keybind/screenshot-control) |
 
 
 
