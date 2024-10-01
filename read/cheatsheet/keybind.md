@@ -180,6 +180,23 @@ parent: 一覽表
 
 
 
+## 工作空間 / 視窗移到工作空間
+
+| 按鍵組合           | 功能                               | 執行指令                |
+| -----------------  | ---------------------------------- | ----------------------- |
+| `Alt + Shift + 1`  | 「視窗」移到「工作空間 1 (File)」  | `Window to Desktop 1=`  |
+| `Alt + Shift + 2`  | 「視窗」移到「工作空間 2 (Edit)」  | `Window to Desktop 2=`  |
+| `Alt + Shift + 3`  | 「視窗」移到「工作空間 3 (Web) 」  | `Window to Desktop 3=`  |
+| `Alt + Shift + 4`  | 「視窗」移到「工作空間 4 (Term)」  | `Window to Desktop 4=`  |
+| `Alt + Shift + 5`  | 「視窗」移到「工作空間 5 (Misc)」  | `Window to Desktop 5=`  |
+| `Alt + Shift + 6`  | 「視窗」移到「工作空間 6」         | `Window to Desktop 6=`  |
+| `Alt + Shift + 7`  | 「視窗」移到「工作空間 7」         | `Window to Desktop 7=`  |
+| `Alt + Shift + 8`  | 「視窗」移到「工作空間 8」         | `Window to Desktop 8=`  |
+| `Alt + Shift + 9`  | 「視窗」移到「工作空間 9」         | `Window to Desktop 9=`  |
+
+
+
+
 ## 相關連結
 
 | 相關連結 |
