@@ -12,7 +12,18 @@ grand_parent: 設定
 > [Lingmo 微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark)
 
 
-## 我個人定義的個工作空間
+
+
+## 主題
+
+* [我個人定義的工作空間](#我個人定義的工作空間)
+* [指定切換](#指定切換)
+* [循環切換](#循環切換)
+
+
+
+
+## 我個人定義的工作空間
 
 | 工作空間 | 名稱  |
 | -------- | ----- |
@@ -21,6 +32,8 @@ grand_parent: 設定
 | 3        | Web   |
 | 4        | Term  |
 | 5        | Misc  |
+
+
 
 
 ## 指定切換
@@ -38,6 +51,7 @@ grand_parent: 設定
 | `Alt + Ctrl + 7` | 切換到工作空間 7        | `Switch to Desktop 7=` |
 | `Alt + Ctrl + 8` | 切換到工作空間 8        | `Switch to Desktop 8=` |
 | `Alt + Ctrl + 9` | 切換到工作空間 9        | `Switch to Desktop 9=` |
+
 
 
 
@@ -62,10 +76,9 @@ grand_parent: 設定
 
 
 
-## 對照用法
+## 用法對照
 
 * [視窗聚焦切換](https://samwhelp.github.io/note-about-lingmo/read/config/keybind/window-focus.html)
 * [視窗移到指定工作空間](https://samwhelp.github.io/note-about-kubuntu/read/config/keybind/window-move-to-workspace.html)
 * [應用程式切換 Tab Page](https://samwhelp.github.io/note-about-kubuntu/read/config/keybind/application-tab-page.html)
-* [聚焦或開啟常用的應用程式](https://samwhelp.github.io/note-about-kubuntu/read/config/keybind/application-focus-or-launch-favorite.html)
 * 通用鍵盤組合鍵操作 / [使用「上排數字鍵」相關的操作](https://samwhelp.github.io/system-modeling/read/zh_tw/spec-keybind/with-number-key)
