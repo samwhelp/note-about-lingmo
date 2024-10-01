@@ -28,7 +28,7 @@ grand_parent: 概覽
 
 ## 接下來
 
-接下來介紹「[如何開啟應用程式](https://samwhelp.github.io/note-about-lingmo/read/guide/workflow/launch-application.html)」
+> 接下來介紹「[如何開啟應用程式](https://samwhelp.github.io/note-about-lingmo/read/guide/workflow/launch-application.html)」
 
 
 
