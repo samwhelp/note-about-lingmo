@@ -26,3 +26,4 @@ parent: 概覽
 | [開啟應用程式](workflow/launch-application) |
 | [檔案管理器導向的操作](workflow/file-manager-oriented) |
 | [常用的視窗操作](workflow/window-control) |
+| [各項切換](workflow/switch) |
