@@ -15,6 +15,7 @@ grand_parent: 概覽
 ## 主題
 
 * [解說](#解說)
+* [接下來](#接下來)
 * [相關連結](#相關連結)
 
 
@@ -100,6 +101,13 @@ grand_parent: 概覽
 > 可以按下「`Alt + F3`」或是「`Alt + Space`」，也會出現「視窗操作選單」。
 
 > 還有一些視窗操作的「按鍵綁定」沒有在上面介紹，可以參考「[鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-lingmo/read/cheatsheet/keybind.html#視窗操作)」。
+
+
+
+
+## 接下來
+
+> 接下來了解「[各項切換](https://samwhelp.github.io/note-about-lingmo/read/guide/workflow/switch.html)」。
 
 
 
