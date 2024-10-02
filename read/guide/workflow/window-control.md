@@ -25,6 +25,21 @@ grand_parent: 概覽
 
 
 
+## 關閉視窗
+
+在「[開啟應用程式](https://samwhelp.github.io/note-about-lingmo/read/guide/workflow/launch-application.html)」後，我們要學會如何「關閉應用程式(視窗)」。
+
+大多的系統是預設是綁定「`Alt + F4`」來「關閉視窗」，
+
+在視窗的標題列，通常也有一個「關閉視窗按鈕」。
+
+而我的習慣則是會綁定「`Win + q`」來「關閉視窗」。
+
+
+
+
+
+
 ## 相關連結
 
 * [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-lingmo/read/cheatsheet/keybind.html#視窗操作)
