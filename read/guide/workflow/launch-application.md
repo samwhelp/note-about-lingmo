@@ -53,6 +53,9 @@ grand_parent: 概覽
 | `Alt + Ctrl + t`   | 開啟 Terminal  | `qterminal`        |
 
 
+> 另外也可以將「常用的應用程式」，鎖定在「下方 Dock」上，未來就可以找到「要開啟的應用圖示」點選開啟。
+
+
 
 
 ## 接下來
