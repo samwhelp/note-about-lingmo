@@ -33,6 +33,25 @@ grand_parent: 概覽
 
 > 也可以輸入關鍵字來過濾「顯示的應用程式圖示列表」。
 
+> 另外我有設定一些「按鍵綁定 (快捷鍵)」，用來「開啟常用的應用程式」。
+
+
+| 按鍵組合          | 功能           | 執行指令                        |
+| ----------------- | -------------- | ------------------------------- |
+| `Alt + Shift + f` | 開啟檔案管理器 | `lingmo-filemanager`            |
+| `Alt + Shift + g` | 開啟檔案管理器 | `pcmanfm-qt`                    |
+| `Alt + Shift + e` | 開啟文字編輯器 | `lingmo-texteditor`             |
+| `Alt + Shift + b` | 開啟網頁瀏覽器 | `firefox --new-tab about:blank` |
+
+
+| 按鍵組合           | 功能           | 執行指令           |
+| ------------------ | -------------- | ------------------ |
+| `Alt + Enter`      | 開啟 Terminal  | `lingmo-terminal`  |
+| `Alt + Shift + a`  | 開啟 Terminal  | `lingmo-terminal`  |
+| `Alt + Ctrl + a`   | 開啟 Terminal  | `sakura`           |
+| `Alt + Shift + t`  | 開啟 Terminal  | `xfce4-terminal`   |
+| `Alt + Ctrl + t`   | 開啟 Terminal  | `qterminal`        |
+
 
 
 
