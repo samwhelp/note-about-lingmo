@@ -14,6 +14,7 @@
 
 * [微調腳本](#微調腳本)
 * [按鍵綁定](#按鍵綁定)
+* [概覽](#概覽)
 * [一覽表](#一覽表)
 * [相關筆記](#相關筆記)
 
@@ -41,6 +42,18 @@
 | ------- |
 | [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-lingmo/read/config/keybind.html) |
 | [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-lingmo/read/config/mousebind.html) |
+
+
+
+
+## 概覽
+
+| 工作流程 / 使用情境 |
+| ----------------- |
+| [離開系統](https://samwhelp.github.io/note-about-lingmo/read/guide/workflow/exit.html) |
+| [開啟應用程式](https://samwhelp.github.io/note-about-lingmo/read/guide/workflow/launch-application.html) |
+| [檔案管理器導向的操作](https://samwhelp.github.io/note-about-lingmo/read/guide/workflow/file-manager-oriented.html) |
+| [常用的視窗操作](https://samwhelp.github.io/note-about-lingmo/read/guide/workflow/window-control.html) |
 
 
 
