@@ -82,6 +82,16 @@ grand_parent: 概覽
 
 ## 更多視窗操作
 
+若要執行更多的視窗操作，
+
+可以在「視窗標題列」，按下「滑鼠右鍵」，就會出現「視窗操作選單」。
+
+就可以點選「想要的視窗操作」。
+
+> 可以按下「`Alt + F3`」或是「`Alt + Space`」，也會出現「視窗操作選單」。
+
+> 還有一些視窗操作的「按鍵綁定」沒有在上面介紹，可以參考「[鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-lingmo/read/cheatsheet/keybind.html#視窗操作)」。
+
 
 
 
