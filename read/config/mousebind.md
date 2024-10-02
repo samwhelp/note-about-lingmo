@@ -27,7 +27,7 @@ parent: 設定
 
 | 設定檔路徑 |
 | ----------- |
-|  |
+| [~/.config/kwinrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kwinrc#L47) |
 
 
 
