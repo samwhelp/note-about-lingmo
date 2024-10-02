@@ -27,7 +27,7 @@ grand_parent: 概覽
 
 除了可以在「上方 Panel」找到按鈕按下，顯示「離開系統選單」。
 
-我們可以在鍵盤按下「`Alt + Shift + x`」，就會執行「`lingmo-shutdown`」，
+我們也可以在鍵盤按下「`Alt + Shift + x`」，就會執行「`lingmo-shutdown`」，
 
 也就是會顯示「全螢幕離開系統選單」。
 
