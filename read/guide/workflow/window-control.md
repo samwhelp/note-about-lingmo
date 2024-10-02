@@ -73,3 +73,4 @@ grand_parent: 概覽
 
 * [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-lingmo/read/cheatsheet/keybind.html#視窗操作)
 * 按鍵綁定　/ [視窗基本操作](https://samwhelp.github.io/note-about-lingmo/read/config/keybind/window-control.html)
+* [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-lingmo/read/config/mousebind.html)
