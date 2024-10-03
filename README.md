@@ -8,6 +8,9 @@
 | [Lingmo OS 探索筆記](https://samwhelp.github.io/note-about-lingmo/) | [GitHub](https://github.com/samwhelp/note-about-lingmo) |
 
 
+> 目前此筆記是根據「[Lingmo OS 2.0 Hydrogen](https://github.com/orgs/LingmoOS/discussions/20)」所撰寫的。
+
+
 
 
 ## 主題
