@@ -33,7 +33,7 @@ has_children: true
 
 ## 微調腳本
 
-| [工具微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config) |
+| [工具微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part) |
 | --- |
 | [tool-config-common](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/full/tool-config-common) |
 | [tool-config-kde](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/full/tool-config-kde) |
