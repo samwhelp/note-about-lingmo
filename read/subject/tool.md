@@ -8,9 +8,13 @@ has_children: true
 # 工具
 
 
+
+
 ## Project
 
-* Config / [Tool](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/tool)
+> Config / [Tool](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config)
+
+
 
 
 ## Subject
@@ -29,10 +33,10 @@ has_children: true
 
 ## 微調腳本
 
-| [工具微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/tool) |
+| [工具微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config) |
 | --- |
-| [tool-config-common](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/full/tool-config-common) |
-| [tool-config-kde](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/full/tool-config-kde) |
+| [tool-config-common](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/full/tool-config-common) |
+| [tool-config-kde](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/full/tool-config-kde) |
 
 
 
@@ -50,10 +54,11 @@ has_children: true
 
 | [File Manager](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager.html) | 微調腳本 |
 | --- | --- |
-| [dolphin](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager/dolphin.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/dolphin) |
 | [pcmanfm-qt](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager/pcmanfm-qt.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/pcmanfm-qt) |
-| [pcmanfm](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager/pcmanfm.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/pcmanfm) |
 | [thunar](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager/thunar.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/thunar) |
+| [dolphin](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager/dolphin.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/dolphin) |
+| [pcmanfm](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager/pcmanfm.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/pcmanfm) |
+
 
 
 
