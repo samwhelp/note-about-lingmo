@@ -47,6 +47,19 @@ grand_parent: 概覽
 
 
 
+## 其他
+
+> 我另外有寫了不同的微調腳本，根據不同的「檔案管理器為主」所作的「按鍵綁定」。
+
+| 檔案管理器導向 | 設定檔 |
+| ------------- | ----- |
+| [keybind-mode-lingmo-filemanager](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/alternative-config/keybind/keybind-mode-lingmo-filemanager) | [~/.config/lingmoglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/alternative-config/keybind/keybind-mode-lingmo-filemanager/asset/overlay/etc/skel/.config/lingmoglobalshortcutsrc#L42-L48) |
+| [keybind-mode-pcmanfm-qt](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/alternative-config/keybind/keybind-mode-pcmanfm-qt) | [~/.config/lingmoglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/alternative-config/keybind/keybind-mode-pcmanfm-qt/asset/overlay/etc/skel/.config/lingmoglobalshortcutsrc#L42-L48) |
+| [keybind-mode-thunar](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/alternative-config/keybind/keybind-mode-thunar) | [~/.config/lingmoglobalshortcutsrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/alternative-config/keybind/keybind-mode-thunar/asset/overlay/etc/skel/.config/lingmoglobalshortcutsrc#L42-L48) |
+
+
+
+
 ## 接下來
 
 > 接下來介紹「[常用的視窗操作](https://samwhelp.github.io/note-about-lingmo/read/guide/workflow/window-control.html)」。
