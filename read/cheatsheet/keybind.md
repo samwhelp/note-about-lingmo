@@ -84,6 +84,7 @@ parent: 一覽表
 | `Alt + Shift + g`  | 開啟檔案管理器  | `pcmanfm-qt`                     |
 | `Alt + Shift + e`  | 開啟文字編輯器  | `lingmo-texteditor`              |
 | `Alt + Shift + b`  | 開啟網頁瀏覽器  | `firefox --new-tab about:blank`  |
+| `Alt + Shift + s`  | 開啟系統設定    | `lingmo-settings`                |
 
 
 
