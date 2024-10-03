@@ -28,4 +28,4 @@ grand_parent: 字型
 
 | 設定檔路徑 |
 | --- |
-| [~/.config/fontconfig/conf.d/99-lingmo.conf](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/font-config/font-match-order/asset/overlay/etc/skel/.config/fontconfig/conf.d/99-lingmo.conf) |
+| [~/.config/fontconfig/conf.d/99-x-lingmo.conf](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/font-config/font-match-order/asset/overlay/etc/skel/.config/fontconfig/conf.d/99-x-lingmo.conf) |
