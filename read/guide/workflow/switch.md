@@ -66,4 +66,4 @@ grand_parent: 概覽
 * 按鍵綁定　/ [系統操作](https://samwhelp.github.io/note-about-lingmo/read/config/keybind/system-control.html)
 * 按鍵綁定　/ [視窗聚焦切換](https://samwhelp.github.io/note-about-lingmo/read/config/keybind/window-focus.html)
 * 按鍵綁定　/ [工作空間切換](https://samwhelp.github.io/note-about-lingmo/read/config/keybind/workspace-switch.html)
-
+* 按鍵綁定　/ [桌面放大或縮小](https://samwhelp.github.io/note-about-lingmo/read/config/keybind/desktop-control.html)
