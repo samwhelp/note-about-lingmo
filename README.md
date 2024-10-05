@@ -21,6 +21,7 @@
 * [一覽表](#一覽表)
 * [字型](#字型)
 * [輸入法](#輸入法)
+* [如何](#如何)
 * [工具](read/subject/tool)
 * [相關筆記](#相關筆記)
 
@@ -90,6 +91,16 @@
 | [新酷音輸入法](https://samwhelp.github.io/note-about-lingmo/read/subject/input-method/fcitx5/module/fcitx5-chewing.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/im-config/fcitx5/fcitx5-chewing) |
 | [嘸蝦米輸入法](https://samwhelp.github.io/note-about-lingmo/read/subject/input-method/fcitx5/table/fcitx5-table-boshiamy.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/im-config/fcitx5/fcitx5-table-boshiamy) |
 | [輕鬆輸入法](https://samwhelp.github.io/note-about-lingmo/read/subject/input-method/fcitx5/table/fcitx5-table-easy-large.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/im-config/fcitx5/fcitx5-table-easy-large) |
+
+
+
+
+## 如何
+
+| [如何](https://samwhelp.github.io/note-about-lingmo/read/howto.html) |
+| ----- |
+| [透過「Dbus」設定桌面圖片](https://samwhelp.github.io/note-about-lingmo/read/howto/set-wallpaper-by-dbus.html) |
+| [透過「Variety」設定桌面圖片](https://samwhelp.github.io/note-about-lingmo/read/howto/set-wallpaper-by-variety.html) |
 
 
 
