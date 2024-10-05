@@ -126,4 +126,4 @@ qdbus com.lingmo.Settings /Theme com.lingmo.Theme.wallpaper
 
 ## 接下來
 
-接著我們來了解，在「Lingmo」，如何透過「Variety」設定桌面圖片。
+接著我們來了解，在「Lingmo」，如何[透過「Variety」設定桌面圖片](https://samwhelp.github.io/note-about-lingmo/read/howto/set-wallpaper-by-variety.html)。
