@@ -2,6 +2,8 @@
 
 # 首頁
 
+> 靈墨 OS 探索筆記
+
 | Link | GitHub |
 | ---- | ------ |
 | [Lingmo OS Adjustment](https://samwhelp.github.io/lingmo-adjustment/) | [GitHub](https://github.com/samwhelp/lingmo-adjustment) |
