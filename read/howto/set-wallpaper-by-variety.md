@@ -15,7 +15,8 @@ parent: 如何
 
 * [Variety](#variety)
 * [設定腳本](#設定腳本)
-* [說明](#說明)
+* [安裝](#安裝)
+* [調整說明](#調整說明)
 * [修改「get_wallpaper」](#修改get_wallpaper)
 * [修改「set_wallpaper」](#修改set_wallpaper)
 * [注意事項](#注意事項)
@@ -41,7 +42,18 @@ parent: 如何
 
 
 
-## 說明
+## 安裝
+
+執行下面指令，安裝「[variety](https://packages.debian.org/stable/variety)」這個「Debian Package」。
+
+``` sh
+sudo apt-get install variety
+```
+
+
+
+
+## 調整說明
 
 因為目前「Variety」，並沒有支援到「Lingmo」，
 
