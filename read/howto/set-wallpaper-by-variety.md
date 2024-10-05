@@ -20,6 +20,7 @@ parent: 如何
 * [修改「get_wallpaper」](#修改get_wallpaper)
 * [修改「set_wallpaper」](#修改set_wallpaper)
 * [注意事項](#注意事項)
+* [相關討論](#相關討論)
 
 
 
@@ -119,3 +120,10 @@ Exec=variety
 ```
 
 完整內容，請參考我修改後的「[~/.config/autostart/variety.desktop](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/tool-config/part/variety/asset/overlay/etc/skel/.config/autostart/variety.desktop#L6)」。
+
+
+
+
+## 相關討論
+
+* [在「Lingmo」環境，如何透過「Variety」設定桌面圖片](https://github.com/orgs/LingmoOS/discussions/20#discussioncomment-10852058)
