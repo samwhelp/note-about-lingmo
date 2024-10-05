@@ -96,7 +96,9 @@ fi
 
 在「Lingmo」的「Xdg Autostart」機制的「`Exec=`」那個格式似乎有些限制，
 
-因為「variety」自動產生的「~/.config/autostart/variety.desktop」裡面的「`Exec=`」那一行的寫法，在「Lingmo」沒有作用。
+因為「variety」自動產生的「~/.config/autostart/variety.desktop」
+
+裡面的「`Exec=`」那一行的寫法，在「Lingmo」沒有作用。
 
 所以我們要將它稍微修改簡化如下
 
