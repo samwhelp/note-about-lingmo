@@ -79,6 +79,49 @@ export QT_STYLE_OVERRIDE=kvantum
 
 ## 設定「Qt Style」採用「kvantum」
 
+執行下面指令，安裝「[qt5-style-kvantum](https://packages.debian.org/stable/qt5-style-kvantum)」
+
+``` sh
+sudo apt-get install qt5-style-kvantum
+```
+
+執行
+
+``` sh
+dpkg -L qt5-style-kvantum | grep plugin
+```
+
+顯示
+
+```
+/usr/lib/x86_64-linux-gnu/qt5/plugins
+/usr/lib/x86_64-linux-gnu/qt5/plugins/styles
+/usr/lib/x86_64-linux-gnu/qt5/plugins/styles/libkvantum.so
+```
+
+> 設定「Qt Style」採用「kvantum」，可以產生一個檔案「/etc/profile.d/qt-style.sh」，內容如下
+
+``` sh
+export QT_STYLE_OVERRIDE=kvantum
+```
+
+> 執行「`kvantummanager`」來設定採用「Kvantum Theme」，設定值會儲存在「~/.config/Kvantum/kvantum.kvconfig」這個檔案，內容類似如下
+
+``` ini
+[General]
+theme=KvArcDark
+```
+
+重新開機後，再次登入系統，就可以看到效果。
+
+可以執行「pcmanfm-qt」來觀看效果。
+
+| Debian Package |
+| -------------- |
+| [qt5-style-kvantum](https://packages.debian.org/stable/qt5-style-kvantum) |
+| [qt5-style-kvantum-l10n](https://packages.debian.org/stable/qt5-style-kvantum-l10n) |
+| [qt5-style-kvantum-themes](https://packages.debian.org/stable/qt5-style-kvantum-themes) |
+
 
 
 
