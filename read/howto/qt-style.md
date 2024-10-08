@@ -145,9 +145,10 @@ export QT_STYLE_OVERRIDE=kvantum
 theme=KvArcDark
 ```
 
-重新開機後，再次登入系統，就可以看到效果。
+> 重新開機後，再次登入系統，就可以看到效果。
 
-可以執行「pcmanfm-qt」來觀看效果。
+> 可以執行「pcmanfm-qt」來觀看效果。
+
 
 | Debian Package |
 | -------------- |
@@ -159,6 +160,8 @@ theme=KvArcDark
 
 
 ## 設定「Qt Style」採用「gtk2」
+
+以下步驟可以讓「Qt Style」跟隨「gtk2」的設定。
 
 執行下面指令，安裝「[qt5-gtk2-platformtheme](https://packages.debian.org/stable/qt5-gtk2-platformtheme)」
 
@@ -206,6 +209,11 @@ gtk-cursor-theme-size=24
 
 
 > 關於「`gtk-cursor-theme-name="lingmo-dark"`」指的是「`/usr/share/icons/lingmo-dark/cursors/`」。
+
+
+> 重新開機後，再次登入系統，就可以看到效果。
+
+> 可以執行「pcmanfm-qt」來觀看效果。
 
 
 | Debian Package |
