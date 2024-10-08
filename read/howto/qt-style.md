@@ -248,3 +248,8 @@ gtk-cursor-theme-size=24
 | GitHub / qt / [qtstyleplugins](https://github.com/qt/qtstyleplugins) |
 | GitHub / tsujan / [Kvantum](https://github.com/tsujan/Kvantum) |
 | GitHub / LingmoOS / [lingmo-qt-plugins](https://github.com/LingmoOS/lingmo-qt-plugins) |
+
+
+| Source |
+| ------ |
+| GitHub / qt / [qtbase](https://github.com/qt/qtbase/blob/dev/src/gui/kernel/qplatformtheme.cpp#L36) |
