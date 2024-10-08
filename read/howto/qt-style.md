@@ -61,6 +61,39 @@ QT_QPA_PLATFORMTHEME=lingmo
     qputenv("QT_PLATFORM_PLUGIN", "lingmo");
 ```
 
+也就是設定「Qt Style」採用「lingmo」。
+
+原始碼專案是「GitHub / LingmoOS / [lingmo-qt-plugins](https://github.com/LingmoOS/lingmo-qt-plugins)」。
+
+然後「Debian Package」是「`lingmo-qt-plugins`」。
+
+執行
+
+``` sh
+dpkg -L lingmo-qt-plugins
+```
+
+顯示
+
+```
+/.
+/usr
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/qt5
+/usr/lib/x86_64-linux-gnu/qt5/plugins
+/usr/lib/x86_64-linux-gnu/qt5/plugins/platformthemes
+/usr/lib/x86_64-linux-gnu/qt5/plugins/platformthemes/liblingmoplatformtheme.so
+/usr/lib/x86_64-linux-gnu/qt5/plugins/styles
+/usr/lib/x86_64-linux-gnu/qt5/plugins/styles/liblingmostyle.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/lingmo-qt-plugins
+/usr/share/doc/lingmo-qt-plugins/changelog.gz
+/usr/share/doc/lingmo-qt-plugins/copyright
+```
+
+
 
 ## 設定環境變數「QT_STYLE_OVERRIDE」
 
@@ -126,3 +159,13 @@ theme=KvArcDark
 
 
 ## 設定「Qt Style」採用「gtk2」
+
+
+
+| Debian Package |
+| -------------- |
+| [qt5-style-plugins](https://packages.debian.org/stable/qt5-style-plugins) |
+| [qt5-gtk2-platformtheme](https://packages.debian.org/stable/qt5-gtk2-platformtheme) |
+| [qt5-style-plugin-cleanlooks](https://packages.debian.org/stable/qt5-style-plugin-cleanlooks) |
+| [qt5-style-plugin-motif](https://packages.debian.org/stable/qt5-style-plugin-motif) |
+| [qt5-style-plugin-plastique](https://packages.debian.org/stable/qt5-style-plugin-plastique) |
