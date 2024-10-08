@@ -132,7 +132,7 @@ dpkg -L qt5-style-kvantum | grep plugin
 /usr/lib/x86_64-linux-gnu/qt5/plugins/styles/libkvantum.so
 ```
 
-> 設定「Qt Style」採用「kvantum」，可以產生一個檔案「/etc/profile.d/qt-style.sh」，內容如下
+> 設定「Qt Style」採用「`kvantum`」，可以產生一個檔案「/etc/profile.d/qt-style.sh」，內容如下
 
 ``` sh
 export QT_STYLE_OVERRIDE=kvantum
@@ -160,6 +160,52 @@ theme=KvArcDark
 
 ## 設定「Qt Style」採用「gtk2」
 
+執行下面指令，安裝「[qt5-gtk2-platformtheme](https://packages.debian.org/stable/qt5-gtk2-platformtheme)」
+
+``` sh
+sudo apt-get install qt5-gtk2-platformtheme
+```
+
+
+執行
+
+``` sh
+dpkg -L qt5-style-kvantum | grep plugin
+```
+
+顯示
+
+```
+/usr/lib/x86_64-linux-gnu/qt5/plugins
+/usr/lib/x86_64-linux-gnu/qt5/plugins/platformthemes
+/usr/lib/x86_64-linux-gnu/qt5/plugins/platformthemes/libqgtk2.so
+/usr/lib/x86_64-linux-gnu/qt5/plugins/styles
+/usr/lib/x86_64-linux-gnu/qt5/plugins/styles/libqgtk2style.so
+```
+
+> 設定「Qt Style」採用「`gtk2`」，可以產生一個檔案「/etc/profile.d/qt-style.sh」，內容如下
+
+``` sh
+export QT_STYLE_OVERRIDE=gtk2
+```
+
+> 產生一個檔案「[~/.gtkrc-2.0](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.gtkrc-2.0#L8)」，內容類似如下
+
+``` ini
+gtk-theme-name="Lingmo-dark"
+gtk-icon-theme-name="Crule-dark"
+gtk-font-name="Sans 12"
+gtk-cursor-theme-name="lingmo-dark"
+gtk-cursor-theme-size=24
+```
+
+> 關於「`gtk-theme-name="Lingmo-dark"`」指的是「`/usr/share/themes/Lingmo-dark/gtk-2.0/`」。
+
+
+> 關於「`gtk-icon-theme-name="Crule-dark"`」指的是「`/usr/share/icons/Crule-dark/`」。
+
+
+> 關於「`gtk-cursor-theme-name="lingmo-dark"`」指的是「`/usr/share/icons/lingmo-dark/cursors/`」。
 
 
 | Debian Package |
@@ -169,3 +215,6 @@ theme=KvArcDark
 | [qt5-style-plugin-cleanlooks](https://packages.debian.org/stable/qt5-style-plugin-cleanlooks) |
 | [qt5-style-plugin-motif](https://packages.debian.org/stable/qt5-style-plugin-motif) |
 | [qt5-style-plugin-plastique](https://packages.debian.org/stable/qt5-style-plugin-plastique) |
+
+
+> 關於「[qt5-style-plugins](https://packages.debian.org/stable/qt5-style-plugins)」是「[Debian Meta Package](https://wiki.debian.org/metapackage)」，可以直接安裝它，就會連帶安裝「qt5-gtk2-platformtheme」，「qt5-style-plugin-cleanlooks」，「qt5-style-plugin-motif」，「qt5-style-plugin-plastique」。
