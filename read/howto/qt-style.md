@@ -18,6 +18,7 @@ parent: 如何
 * [設定「Qt Style」採用「kvantum」](#設定qt-style採用kvantum)
 * [設定「Qt Style」採用「gtk2」](#設定qt-style採用gtk2)
 * [設定範例](#設定範例)
+* [Source](#source)
 
 
 
