@@ -17,6 +17,7 @@ parent: 如何
 * [設定環境變數「QT_STYLE_OVERRIDE」](#設定環境變數qt_style_override)
 * [設定「Qt Style」採用「kvantum」](#設定qt-style採用kvantum)
 * [設定「Qt Style」採用「gtk2」](#設定qt-style採用gtk2)
+* [設定範例](#設定範例)
 
 
 
@@ -226,3 +227,24 @@ gtk-cursor-theme-size=24
 
 
 > 關於「[qt5-style-plugins](https://packages.debian.org/stable/qt5-style-plugins)」是「[Debian Meta Package](https://wiki.debian.org/metapackage)」，可以直接安裝它，就會連帶安裝「qt5-gtk2-platformtheme」，「qt5-style-plugin-cleanlooks」，「qt5-style-plugin-motif」，「qt5-style-plugin-plastique」。
+
+
+
+
+## 設定範例
+
+| 設定範例 |
+| ------- |
+| [qt-style-follow-gtk2](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/qt-style-config/qt-style-follow-gtk2) |
+| [qt-style-follow-kvantum](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/qt-style-config/qt-style-follow-kvantum) |
+| [qt-style-follow-lingmo](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/qt-style-config/qt-style-follow-lingmo) |
+
+
+
+## Source
+
+| Source |
+| ------ |
+| GitHub / qt / [qtstyleplugins](https://github.com/qt/qtstyleplugins) |
+| GitHub / tsujan / [Kvantum](https://github.com/tsujan/Kvantum) |
+| GitHub / LingmoOS / [lingmo-qt-plugins](https://github.com/LingmoOS/lingmo-qt-plugins) |
