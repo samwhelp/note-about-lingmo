@@ -15,6 +15,7 @@ grand_parent: 外觀設定
 ## 主題
 
 * [設定腳本](#設定腳本)
+* [佈景主題來源](#佈景主題來源)
 
 
 
@@ -24,3 +25,14 @@ grand_parent: 外觀設定
 | 設定腳本 |
 | ------- |
 | [Graphite](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Graphite) |
+
+
+
+
+## 佈景主題來源
+
+| 佈景主題來源 |
+| ---------- |
+| vinceliuice / [Graphite-kde-theme](https://github.com/vinceliuice/Graphite-kde-theme) |
+| vinceliuice / [Graphite-gtk-theme](https://github.com/vinceliuice/Graphite-gtk-theme) |
+| yeyushengfan258 / [Citrus-icon-theme](https://github.com/yeyushengfan258/Citrus-icon-theme) |
