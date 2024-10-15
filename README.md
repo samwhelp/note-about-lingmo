@@ -24,6 +24,7 @@
 * [字型](#字型)
 * [輸入法](#輸入法)
 * [如何](#如何)
+* [佈景主題](read/subject/theme)
 * [外觀設定](read/subject/style)
 * [工具](read/subject/tool)
 * [連結](read/link)
