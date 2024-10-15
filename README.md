@@ -114,10 +114,10 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
 | [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
 | [Kde 探索筆記](https://samwhelp.github.io/note-about-kde/) | [GitHub](https://github.com/samwhelp/note-about-kde) |
 | [Kde Neon 探索筆記](https://samwhelp.github.io/note-about-kde-neon/) | [GitHub](https://github.com/samwhelp/note-about-kde-neon) |
+| [Kubuntu 探索筆記](https://samwhelp.github.io/note-about-kubuntu/) | [GitHub](https://github.com/samwhelp/note-about-kubuntu) |
 
 
 
