@@ -8,3 +8,19 @@ grand_parent: 外觀設定
 
 
 # 外觀設定樣式「Graphite」
+
+
+
+
+## 主題
+
+* [設定腳本](#設定腳本)
+
+
+
+
+## 設定腳本
+
+| 設定腳本 |
+| ------- |
+| [Graphite](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Graphite) |
