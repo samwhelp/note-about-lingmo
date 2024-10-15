@@ -24,6 +24,7 @@ grand_parent: 外觀設定
 
 | 設定腳本 |
 | ------- |
+| [qt-style-follow-kvantum](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/qt-style-config/qt-style-follow-kvantum) |
 | [Orchis](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Orchis) |
 
 
