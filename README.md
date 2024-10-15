@@ -26,6 +26,7 @@
 * [如何](#如何)
 * [外觀設定](read/subject/style)
 * [工具](read/subject/tool)
+* [連結](read/link)
 * [相關筆記](#相關筆記)
 
 
