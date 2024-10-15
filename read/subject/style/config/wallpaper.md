@@ -11,6 +11,7 @@ grand_parent: 外觀設定
 
 * [設定檔](#設定檔)
 * [設定指令](#設定指令)
+* [相關連結](#相關連結)
 
 
 
@@ -59,3 +60,10 @@ qdbus com.lingmo.Settings /Theme com.lingmo.Theme.wallpaper
 ```
 /usr/share/backgrounds/lingmoos/grass1.jpg
 ```
+
+
+
+
+## 相關連結
+
+* [透過「Dbus」設定桌面圖片](https://samwhelp.github.io/note-about-lingmo/read/howto/set-wallpaper-by-dbus.html)
