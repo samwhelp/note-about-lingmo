@@ -19,6 +19,7 @@ parent: 如何
 * [Help](#help)
 * [參考指令](#參考指令)
 * [接下來](#接下來)
+* [相關連結](#相關連結)
 
 
 
@@ -127,3 +128,10 @@ qdbus com.lingmo.Settings /Theme com.lingmo.Theme.wallpaper
 ## 接下來
 
 接著我們來了解，在「Lingmo」，如何[透過「Variety」設定桌面圖片](https://samwhelp.github.io/note-about-lingmo/read/howto/set-wallpaper-by-variety.html)。
+
+
+
+
+## 相關連結
+
+* [外觀設定介面](https://samwhelp.github.io/note-about-lingmo/read/subject/style/config.html)
