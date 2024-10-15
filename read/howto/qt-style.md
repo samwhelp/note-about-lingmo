@@ -19,6 +19,7 @@ parent: 如何
 * [設定「Qt Style」採用「gtk2」](#設定qt-style採用gtk2)
 * [設定範例](#設定範例)
 * [Source](#source)
+* [相關連結](#相關連結)
 
 
 
@@ -159,6 +160,9 @@ theme=KvArcDark
 | [qt5-style-kvantum-themes](https://packages.debian.org/stable/qt5-style-kvantum-themes) |
 
 
+> 更多採用「kvantum」的「[外觀設定樣式](https://samwhelp.github.io/note-about-lingmo/read/subject/style/recipe.html)」
+
+
 
 
 ## 設定「Qt Style」採用「gtk2」
@@ -254,3 +258,10 @@ gtk-cursor-theme-size=24
 | Source |
 | ------ |
 | GitHub / qt / [qtbase](https://github.com/qt/qtbase/blob/dev/src/gui/kernel/qplatformtheme.cpp#L36) |
+
+
+
+
+## 相關連結
+
+* [外觀設定樣式](https://samwhelp.github.io/note-about-lingmo/read/subject/style/recipe.html)
