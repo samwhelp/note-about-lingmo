@@ -6,3 +6,12 @@ has_children: true
 
 
 # 佈景主題
+
+
+
+
+## 相關連結
+
+| Link | GitHub |
+| ---- | ------ |
+| [Theme 探索筆記](https://samwhelp.github.io/note-about-theme/) | [GitHub](https://github.com/samwhelp/note-about-theme) |
