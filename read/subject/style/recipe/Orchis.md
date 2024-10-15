@@ -14,8 +14,16 @@ grand_parent: 外觀設定
 
 ## 主題
 
+* [前提](#前提)
 * [設定腳本](#設定腳本)
 * [佈景主題來源](#佈景主題來源)
+
+
+
+
+## 前提
+
+* [設定「Qt Style」採用「kvantum」](https://samwhelp.github.io/note-about-lingmo/read/howto/qt-style.html#%E8%A8%AD%E5%AE%9Aqt-style%E6%8E%A1%E7%94%A8kvantum)
 
 
 
