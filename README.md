@@ -105,6 +105,7 @@
 | ----- |
 | [透過「Dbus」設定桌面圖片](https://samwhelp.github.io/note-about-lingmo/read/howto/set-wallpaper-by-dbus.html) |
 | [透過「Variety」設定桌面圖片](https://samwhelp.github.io/note-about-lingmo/read/howto/set-wallpaper-by-variety.html) |
+| [設定「Qt Style」](https://samwhelp.github.io/note-about-lingmo/read/howto/config-qt-style.html) |
 
 
 
