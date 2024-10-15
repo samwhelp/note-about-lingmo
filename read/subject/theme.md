@@ -10,6 +10,15 @@ has_children: true
 
 
 
+## 相關議題
+
+| 相關議題 |
+| ------- |
+| [外觀設定](https://samwhelp.github.io/note-about-lingmo/read/subject/style.html) |
+
+
+
+
 ## 相關連結
 
 | Link | GitHub |
