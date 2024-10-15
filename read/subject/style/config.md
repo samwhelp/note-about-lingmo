@@ -35,6 +35,7 @@ parent: 外觀設定
 | 設定 | More |
 | ---- | ---- |
 | [設定「桌面圖片」](#設定桌面圖片) | [More](config/wallpaper) |
+| [設定「Icon Theme」](#設定icon-theme) | [More](config/icon-theme) |
 
 
 
