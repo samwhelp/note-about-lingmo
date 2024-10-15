@@ -14,6 +14,7 @@ parent: 外觀設定
 ## 主題
 
 * [設定檔](#設定檔)
+* [設定](#設定)
 * [設定「桌面圖片」](#設定桌面圖片)
 
 
@@ -24,6 +25,15 @@ parent: 外觀設定
 | 設定檔 |
 | ----- |
 | [~/.config/lingmoos/theme.conf](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/lingmoos/theme.conf) |
+
+
+
+
+## 設定
+
+| 設定 | More |
+| ---- | ---- |
+| [設定「桌面圖片」](#設定桌面圖片) | [More](config/wallpaper) |
 
 
 
