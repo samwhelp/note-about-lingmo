@@ -78,7 +78,7 @@ OPTIONS:
 > 執行下面指令安裝
 
 ``` sh
-./install.sh -t all --tweaks flat grey mix translucent
+./install.sh
 ```
 
 
