@@ -38,6 +38,26 @@ grand_parent: 外觀設定
 
 
 
+| 設定腳本 |
+| ------- |
+| [Graphite-Dark-with-icon-Citrus-Dark-Black](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Graphite/Graphite-Dark-with-icon-Citrus-Dark-Black) |
+| [Graphite-Dark-with-icon-Citrus-Dark-Grey](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Graphite/Graphite-Dark-with-icon-Citrus-Dark-Grey) |
+| [Graphite-Dark-with-icon-Citrus-Dark-Purple](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Graphite/Graphite-Dark-with-icon-Citrus-Dark-Purple) |
+| [Graphite-Dark-with-icon-Citrus-Dark-Red](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Graphite/Graphite-Dark-with-icon-Citrus-Dark-Red) |
+
+
+
+
+| 設定腳本 |
+| ------- |
+| [Graphite-Light-with-icon-Citrus-Light-Black](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Graphite/Graphite-Light-with-icon-Citrus-Light-Black) |
+| [Graphite-Light-with-icon-Citrus-Light-Grey](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Graphite/Graphite-Light-with-icon-Citrus-Light-Grey) |
+| [Graphite-Light-with-icon-Citrus-Light-Purple](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Graphite/Graphite-Light-with-icon-Citrus-Light-Purple) |
+| [Graphite-Light-with-icon-Citrus-Light-Red](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Graphite/Graphite-Light-with-icon-Citrus-Light-Red) |
+
+
+
+
 ## 佈景主題來源
 
 | 佈景主題來源 | 如何安裝 |
