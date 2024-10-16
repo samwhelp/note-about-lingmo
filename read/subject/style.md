@@ -7,6 +7,11 @@ has_children: true
 
 # 外觀設定
 
+| 外觀設定 |
+| ------- |
+| [外觀設定介面](style/config) |
+| [外觀設定樣式](style/recipe) |
+
 
 
 
