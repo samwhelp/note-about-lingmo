@@ -264,4 +264,8 @@ gtk-cursor-theme-size=24
 
 ## 相關連結
 
-* [外觀設定樣式](https://samwhelp.github.io/note-about-lingmo/read/subject/style/recipe.html)
+| [外觀設定樣式](https://samwhelp.github.io/note-about-lingmo/read/subject/style/recipe.html) |
+| ---------- |
+| [Orchis](https://samwhelp.github.io/note-about-lingmo/read/subject/style/recipe/Orchis.html) |
+| [Graphite](https://samwhelp.github.io/note-about-lingmo/read/subject/style/recipe/Graphite.html) |
+| [Vimix](https://samwhelp.github.io/note-about-lingmo/read/subject/style/recipe/Vimix.html) |
