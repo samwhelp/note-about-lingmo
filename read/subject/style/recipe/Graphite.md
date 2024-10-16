@@ -40,8 +40,8 @@ grand_parent: 外觀設定
 
 ## 佈景主題來源
 
-| 佈景主題來源 |
-| ---------- |
-| vinceliuice / [Graphite-kde-theme](https://github.com/vinceliuice/Graphite-kde-theme) |
-| vinceliuice / [Graphite-gtk-theme](https://github.com/vinceliuice/Graphite-gtk-theme) |
-| yeyushengfan258 / [Citrus-icon-theme](https://github.com/yeyushengfan258/Citrus-icon-theme) |
+| 佈景主題來源 | 如何安裝 |
+| ---------- | ------- |
+| vinceliuice / [Graphite-kde-theme](https://github.com/vinceliuice/Graphite-kde-theme) | |
+| vinceliuice / [Graphite-gtk-theme](https://github.com/vinceliuice/Graphite-gtk-theme) | |
+| yeyushengfan258 / [Citrus-icon-theme](https://github.com/yeyushengfan258/Citrus-icon-theme) | [如何安裝](https://samwhelp.github.io/note-about-lingmo/read/subject/theme/source/Citrus.html#如何安裝citrus-icon-theme) |

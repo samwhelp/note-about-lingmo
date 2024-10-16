@@ -44,4 +44,4 @@ grand_parent: 外觀設定
 | ---------- | ------- |
 | vinceliuice / [Vimix-kde](https://github.com/vinceliuice/Vimix-kde) | [如何安裝](https://samwhelp.github.io/note-about-lingmo/read/subject/theme/source/Vimix.html#如何安裝vimix-kde) |
 | vinceliuice / [Vimix-gtk-themes](https://github.com/vinceliuice/Vimix-gtk-themes) | [如何安裝](https://samwhelp.github.io/note-about-lingmo/read/subject/theme/source/Vimix.html#如何安裝vimix-gtk-themes) |
-| yeyushengfan258 / [Citrus-icon-theme](https://github.com/yeyushengfan258/Citrus-icon-theme) | |
+| yeyushengfan258 / [Citrus-icon-theme](https://github.com/yeyushengfan258/Citrus-icon-theme) | [如何安裝](https://samwhelp.github.io/note-about-lingmo/read/subject/theme/source/Citrus.html#如何安裝citrus-icon-theme) |
