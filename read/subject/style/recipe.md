@@ -26,7 +26,7 @@ parent: 外觀設定
 | [qt-style-follow-kvantum](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/qt-style-config/qt-style-follow-kvantum) |
 
 
-> 先將「Qt Style」改成根據「Kvantum」來「管理呈現」，可以參考另一篇『[設定「Qt Style」採用「kvantum」](https://samwhelp.github.io/note-about-lingmo/read/howto/config-qt-style.html#%E8%A8%AD%E5%AE%9Aqt-style%E6%8E%A1%E7%94%A8kvantum)』的說明
+> 先將「Qt Style」改成根據「Kvantum」來「管理呈現」，可以參考另一篇『[設定「Qt Style」採用「kvantum」](https://samwhelp.github.io/note-about-lingmo/read/howto/config-qt-style.html#設定qt-style採用kvantum)』的說明
 
 
 
@@ -38,3 +38,4 @@ parent: 外觀設定
 | [Orchis](recipe/Orchis) |
 | [Graphite](recipe/Graphite) |
 | [Vimix](recipe/Vimix) |
+| [Fluent](recipe/Fluent) |
