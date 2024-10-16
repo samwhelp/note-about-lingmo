@@ -37,3 +37,4 @@ parent: 外觀設定
 | ---------- |
 | [Orchis](recipe/Orchis) |
 | [Graphite](recipe/Graphite) |
+| [Vimix](recipe/Vimix) |
