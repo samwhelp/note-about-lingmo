@@ -109,7 +109,7 @@ cd Vimix-gtk-themes
 Usage: ./install.sh [OPTION]...
 
 OPTIONS:
-  -d, --dest DIR          Specify destination directory (Default: /home/sam/.local/share/themes)
+  -d, --dest DIR          Specify destination directory (Default: ~/.local/share/themes)
   -n, --name NAME         Specify theme name (Default: Vimix)
   -t, --theme VARIANT     Specify theme color variant(s) [doder|beryl|ruby|amethyst|jade|grey|all] (Default: doder(blue))
   -c, --color VARIANT     Specify color variant(s) [standard|light|dark] (Default: All variants)
