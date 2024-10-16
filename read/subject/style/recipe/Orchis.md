@@ -28,6 +28,38 @@ grand_parent: 外觀設定
 
 
 
+| 設定腳本 |
+| ------- |
+| [Orchis-Dark-with-icon-Citrus-Dark-Black](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Orchis/Orchis-Dark-with-icon-Citrus-Dark-Black) |
+| [Orchis-Dark-with-icon-Citrus-Dark-Blue](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Orchis/Orchis-Dark-with-icon-Citrus-Dark-Blue) |
+| [Orchis-Dark-with-icon-Citrus-Dark-Brown](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Orchis/Orchis-Dark-with-icon-Citrus-Dark-Brown) |
+| [Orchis-Dark-with-icon-Citrus-Dark-Green](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Orchis/Orchis-Dark-with-icon-Citrus-Dark-Green) |
+| [Orchis-Dark-with-icon-Citrus-Dark-Grey](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Orchis/Orchis-Dark-with-icon-Citrus-Dark-Grey) |
+| [Orchis-Dark-with-icon-Citrus-Dark-Orange](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Orchis/Orchis-Dark-with-icon-Citrus-Dark-Orange) |
+| [Orchis-Dark-with-icon-Citrus-Dark-Pink](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Orchis/Orchis-Dark-with-icon-Citrus-Dark-Pink) |
+| [Orchis-Dark-with-icon-Citrus-Dark-Purple](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Orchis/Orchis-Dark-with-icon-Citrus-Dark-Purple) |
+| [Orchis-Dark-with-icon-Citrus-Dark-Red](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Orchis/Orchis-Dark-with-icon-Citrus-Dark-Red) |
+| [Orchis-Dark-with-icon-Citrus-Dark-Yellow](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Orchis/Orchis-Dark-with-icon-Citrus-Dark-Yellow) |
+
+
+
+
+| 設定腳本 |
+| ------- |
+| [Orchis-Light-with-icon-Citrus-Light-Black](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Orchis/Orchis-Light-with-icon-Citrus-Light-Black) |
+| [Orchis-Light-with-icon-Citrus-Light-Blue](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Orchis/Orchis-Light-with-icon-Citrus-Light-Blue) |
+| [Orchis-Light-with-icon-Citrus-Light-Brown](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Orchis/Orchis-Light-with-icon-Citrus-Light-Brown) |
+| [Orchis-Light-with-icon-Citrus-Light-Green](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Orchis/Orchis-Light-with-icon-Citrus-Light-Green) |
+| [Orchis-Light-with-icon-Citrus-Light-Grey](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Orchis/Orchis-Light-with-icon-Citrus-Light-Grey) |
+| [Orchis-Light-with-icon-Citrus-Light-Orange](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Orchis/Orchis-Light-with-icon-Citrus-Light-Orange) |
+| [Orchis-Light-with-icon-Citrus-Light-Pink](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Orchis/Orchis-Light-with-icon-Citrus-Light-Pink) |
+| [Orchis-Light-with-icon-Citrus-Light-Purple](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Orchis/Orchis-Light-with-icon-Citrus-Light-Purple) |
+| [Orchis-Light-with-icon-Citrus-Light-Red](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Orchis/Orchis-Light-with-icon-Citrus-Light-Red) |
+| [Orchis-Light-with-icon-Citrus-Light-Yellow](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Orchis/Orchis-Light-with-icon-Citrus-Light-Yellow) |
+
+
+
+
 ## 設定腳本
 
 | 設定腳本 |
