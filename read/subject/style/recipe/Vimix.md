@@ -36,10 +36,24 @@ grand_parent: 外觀設定
 | [Vimix](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Vimix) |
 
 
+
+
 | 設定腳本 |
 | ------- |
 | [Vimix-Dark-with-icon-Citrus-Dark-Red](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Vimix/Vimix-Dark-with-icon-Citrus-Dark-Red) |
+| [Vimix-Dark-with-icon-Citrus-Dark-Blue](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Vimix/Vimix-Dark-with-icon-Citrus-Dark-Blue) |
+| [Vimix-Dark-with-icon-Citrus-Dark-Purple](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Vimix/Vimix-Dark-with-icon-Citrus-Dark-Purple) |
+| [Vimix-Dark-with-icon-Citrus-Dark-Green](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Vimix/Vimix-Dark-with-icon-Citrus-Dark-Green) |
+
+
+
+
+| 設定腳本 |
+| ------- |
 | [Vimix-Light-with-icon-Citrus-Light-Red](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Vimix/Vimix-Light-with-icon-Citrus-Light-Red) |
+| [Vimix-Light-with-icon-Citrus-Light-Blue](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Vimix/Vimix-Light-with-icon-Citrus-Light-Blue) |
+| [Vimix-Light-with-icon-Citrus-Light-Purple](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Vimix/Vimix-Light-with-icon-Citrus-Light-Purple) |
+| [Vimix-Light-with-icon-Citrus-Light-Green](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Vimix/Vimix-Light-with-icon-Citrus-Light-Green) |
 
 
 
