@@ -36,6 +36,12 @@ grand_parent: 外觀設定
 | [Vimix](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Vimix) |
 
 
+| 設定腳本 |
+| ------- |
+| [Vimix-Dark-with-icon-Citrus-Dark-Red](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Vimix/Vimix-Dark-with-icon-Citrus-Dark-Red) |
+| [Vimix-Light-with-icon-Citrus-Light-Red](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Vimix/Vimix-Light-with-icon-Citrus-Light-Red) |
+
+
 
 
 ## 佈景主題來源
