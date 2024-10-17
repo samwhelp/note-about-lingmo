@@ -46,7 +46,7 @@ theme=
     settings.endGroup();
 ```
 
-> 所以即使當我們手動修改，最終還是變回原本的設定，因此目前在「Lingmo OS」無法切換「Window Decoration」。
+> 所以即使當我們手動修改「~/.config/kwinrc」，重新登入，最終還是變回原本的設定，因此目前在「Lingmo OS」無法切換「Window Decoration」。
 
 > 根據上面的設定「`library=org.lingmo.decoration`」，了解到在「Lingmo OS」的「Window Decoration」是固定採用「`org.lingmo.decoration`」
 
