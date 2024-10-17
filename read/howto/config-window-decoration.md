@@ -48,6 +48,23 @@ theme=
 
 > 所以即使當我們手動修改，最終還是變回原本的設定，因此目前在「Lingmo OS」無法切換「Window Decoration」。
 
+> 根據上面的設定「`library=org.lingmo.decoration`」，了解到在「Lingmo OS」的「Window Decoration」是固定採用「`org.lingmo.decoration`」
+
+執行
+
+``` sh
+dpkg -L lingmo-kwin-plugins | grep kdecoration
+```
+
+顯示
+
+```
+/usr/lib/x86_64-linux-gnu/qt5/plugins/org.kde.kdecoration2
+/usr/lib/x86_64-linux-gnu/qt5/plugins/org.kde.kdecoration2/liblingdecoration.so
+```
+
+> 關於「`org.lingmo.decoration`」實作的程式碼，可以在「lingmo-kwin-plugins / plugins / [decoration](https://github.com/LingmoOS/lingmo-kwin-plugins/tree/main/plugins/decoration)」找到。
+
 
 
 
