@@ -33,14 +33,6 @@ parent: 外觀設定
 
 ## 樣式
 
-| 外觀設定樣式 |
-| ---------- |
-| [Orchis](recipe/Orchis) |
-| [Graphite](recipe/Graphite) |
-| [Vimix](recipe/Vimix) |
-| [Fluent](recipe/Fluent) |
-
-
 | 外觀設定樣式 | 佈景主題來源 |
 | ---------- | ---------- |
 | [Orchis](https://samwhelp.github.io/note-about-lingmo/read/subject/style/recipe/Orchis.html) | [Orchis](https://samwhelp.github.io/note-about-lingmo/read/subject/theme/source/Orchis.html) |
