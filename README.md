@@ -116,7 +116,6 @@
 | [外觀設定樣式](https://samwhelp.github.io/note-about-lingmo/read/subject/style/recipe.html) | [佈景主題來源](https://samwhelp.github.io/note-about-lingmo/read/subject/theme/source.html) |
 | ---------- | ---------- |
 | [Orchis](https://samwhelp.github.io/note-about-lingmo/read/subject/style/recipe/Orchis.html) | [Orchis](https://samwhelp.github.io/note-about-lingmo/read/subject/theme/source/Orchis.html) |
-| [Graphite](https://samwhelp.github.io/note-about-lingmo/read/subject/style/recipe/Orchis.html) | [Graphite](https://samwhelp.github.io/note-about-lingmo/read/subject/theme/source/Orchis.html) |
 | [Graphite](https://samwhelp.github.io/note-about-lingmo/read/subject/style/recipe/Graphite.html) | [Graphite](https://samwhelp.github.io/note-about-lingmo/read/subject/theme/source/Graphite.html) |
 | [Vimix](https://samwhelp.github.io/note-about-lingmo/read/subject/style/recipe/Vimix.html) | [Vimix](https://samwhelp.github.io/note-about-lingmo/read/subject/theme/source/Vimix.html) |
 | [Fluent](https://samwhelp.github.io/note-about-lingmo/read/subject/style/recipe/Fluent.html) | [Fluent](https://samwhelp.github.io/note-about-lingmo/read/subject/theme/source/Fluent.html) |
