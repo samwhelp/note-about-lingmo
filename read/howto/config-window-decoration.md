@@ -8,6 +8,8 @@ parent: 如何
 
 # 設定「Window Decoration」
 
+> **目前在「Lingmo OS」無法切換「Window Decoration」**
+
 
 
 
@@ -20,8 +22,6 @@ parent: 如何
 
 
 ## 說明
-
-> **目前在「Lingmo OS」無法切換「Window Decoration」**
 
 > 因為「Lingmo OS」是透過「`lingmo-session`」啟動，然後「`lingmo-session`」會設定「[~/.config/kwinrc](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/lingmo-config/locale/en_us/Lingmo-Dark/asset/overlay/etc/skel/.config/kwinrc#L72-L77)」，設定片段如下
 
