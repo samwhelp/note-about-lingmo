@@ -25,7 +25,7 @@
 * [輸入法](#輸入法)
 * [如何](#如何)
 * [佈景主題](read/subject/theme)
-* [外觀設定](read/subject/style)
+* [外觀設定](#外觀設定)
 * [工具](read/subject/tool)
 * [連結](read/link)
 * [相關筆記](#相關筆記)
@@ -107,6 +107,19 @@
 | [透過「Dbus」設定桌面圖片](https://samwhelp.github.io/note-about-lingmo/read/howto/set-wallpaper-by-dbus.html) |
 | [透過「Variety」設定桌面圖片](https://samwhelp.github.io/note-about-lingmo/read/howto/set-wallpaper-by-variety.html) |
 | [設定「Qt Style」](https://samwhelp.github.io/note-about-lingmo/read/howto/config-qt-style.html) |
+
+
+
+
+## 外觀設定
+
+| [外觀設定樣式](https://samwhelp.github.io/note-about-lingmo/read/subject/style/recipe.html) | [佈景主題來源](https://samwhelp.github.io/note-about-lingmo/read/subject/theme/source.html) |
+| ---------- | ---------- |
+| [Orchis](https://samwhelp.github.io/note-about-lingmo/read/subject/style/recipe/Orchis.html) | [Orchis](https://samwhelp.github.io/note-about-lingmo/read/subject/theme/source/Orchis.html) |
+| [Graphite](https://samwhelp.github.io/note-about-lingmo/read/subject/style/recipe/Orchis.html) | [Graphite](https://samwhelp.github.io/note-about-lingmo/read/subject/theme/source/Orchis.html) |
+| [Graphite](https://samwhelp.github.io/note-about-lingmo/read/subject/style/recipe/Graphite.html) | [Graphite](https://samwhelp.github.io/note-about-lingmo/read/subject/theme/source/Graphite.html) |
+| [Vimix](https://samwhelp.github.io/note-about-lingmo/read/subject/style/recipe/Vimix.html) | [Vimix](https://samwhelp.github.io/note-about-lingmo/read/subject/theme/source/Vimix.html) |
+| [Fluent](https://samwhelp.github.io/note-about-lingmo/read/subject/style/recipe/Fluent.html) | [Fluent](https://samwhelp.github.io/note-about-lingmo/read/subject/theme/source/Fluent.html) |
 
 
 
