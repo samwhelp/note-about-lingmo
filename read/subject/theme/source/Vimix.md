@@ -28,7 +28,7 @@ grand_parent: 佈景主題
 | vinceliuice / [Vimix-gtk-themes](https://github.com/vinceliuice/Vimix-gtk-themes) | [如何安裝](#如何安裝vimix-gtk-themes) |
 | vinceliuice / [Vimix-icon-theme](https://github.com/vinceliuice/Vimix-icon-theme) | |
 | vinceliuice / [Vimix-cursors](https://github.com/vinceliuice/Vimix-cursors) | |
-| yeyushengfan258 / [Citrus-icon-theme](https://github.com/yeyushengfan258/Citrus-icon-theme) | |
+| yeyushengfan258 / [Citrus-icon-theme](https://github.com/yeyushengfan258/Citrus-icon-theme) | [如何安裝](https://samwhelp.github.io/note-about-lingmo/read/subject/theme/source/Citrus.html#如何安裝citrus-icon-theme) |
 
 
 
@@ -80,6 +80,8 @@ OPTIONS:
 ``` sh
 ./install.sh
 ```
+
+
 
 
 ## 如何安裝「Vimix-gtk-themes」

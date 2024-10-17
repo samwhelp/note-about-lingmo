@@ -27,7 +27,7 @@ grand_parent: 佈景主題
 | vinceliuice / [Fluent-kde](https://github.com/vinceliuice/Fluent-kde) | [如何安裝](#如何安裝fluent-kde) |
 | vinceliuice / [Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme) | [如何安裝](#如何安裝fluent-gtk-theme) |
 | vinceliuice / [Fluent-icon-theme](https://github.com/vinceliuice/Fluent-icon-theme) | |
-| yeyushengfan258 / [Citrus-icon-theme](https://github.com/yeyushengfan258/Citrus-icon-theme) | |
+| yeyushengfan258 / [Citrus-icon-theme](https://github.com/yeyushengfan258/Citrus-icon-theme) | [如何安裝](https://samwhelp.github.io/note-about-lingmo/read/subject/theme/source/Citrus.html#如何安裝citrus-icon-theme) |
 
 
 
@@ -80,6 +80,8 @@ OPTIONS:
 ``` sh
 ./install.sh
 ```
+
+
 
 
 ## 如何安裝「Fluent-gtk-theme」
