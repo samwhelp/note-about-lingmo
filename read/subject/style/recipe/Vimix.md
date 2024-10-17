@@ -23,7 +23,7 @@ grand_parent: 外觀設定
 
 ## 前提
 
-* [設定「Qt Style」採用「kvantum」](https://samwhelp.github.io/note-about-lingmo/read/howto/config-qt-style.html#設定qt-style採用kvantum)
+> [設定「Qt Style」採用「kvantum」](https://samwhelp.github.io/note-about-lingmo/read/howto/config-qt-style.html#設定qt-style採用kvantum)
 
 
 
