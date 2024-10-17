@@ -31,6 +31,9 @@ grand_parent: 佈景主題
 | yeyushengfan258 / [Citrus-icon-theme](https://github.com/yeyushengfan258/Citrus-icon-theme) | [如何安裝](https://samwhelp.github.io/note-about-lingmo/read/subject/theme/source/Citrus.html#如何安裝citrus-icon-theme) |
 
 
+> 搜尋：「[vimix](https://github.com/vinceliuice?tab=repositories&q=vimix)」
+
+
 
 
 ## 外觀設定樣式

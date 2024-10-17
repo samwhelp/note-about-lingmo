@@ -26,6 +26,9 @@ grand_parent: 佈景主題
 | yeyushengfan258 / [Citrus-icon-theme](https://github.com/yeyushengfan258/Citrus-icon-theme) | [如何安裝](#如何安裝citrus-icon-theme) |
 
 
+> 搜尋：「[citrus](https://github.com/yeyushengfan258?tab=repositories&q=citrus)」
+
+
 
 
 ## 如何安裝「Citrus-icon-theme」
