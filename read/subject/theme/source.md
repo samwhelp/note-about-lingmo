@@ -25,7 +25,6 @@ parent: 佈景主題
 | 佈景主題來源 | 外觀設定樣式 |
 | ---------- | ---------- |
 | [Orchis](https://samwhelp.github.io/note-about-lingmo/read/subject/theme/source/Orchis.html) | [Orchis](https://samwhelp.github.io/note-about-lingmo/read/subject/style/recipe/Orchis.html) |
-| [Graphite](https://samwhelp.github.io/note-about-lingmo/read/subject/theme/source/Orchis.html) | [Graphite](https://samwhelp.github.io/note-about-lingmo/read/subject/style/recipe/Orchis.html) |
 | [Graphite](https://samwhelp.github.io/note-about-lingmo/read/subject/theme/source/Graphite.html) | [Graphite](https://samwhelp.github.io/note-about-lingmo/read/subject/style/recipe/Graphite.html) |
 | [Vimix](https://samwhelp.github.io/note-about-lingmo/read/subject/theme/source/Vimix.html) | [Vimix](https://samwhelp.github.io/note-about-lingmo/read/subject/style/recipe/Vimix.html) |
 | [Fluent](https://samwhelp.github.io/note-about-lingmo/read/subject/theme/source/Fluent.html) | [Fluent](https://samwhelp.github.io/note-about-lingmo/read/subject/style/recipe/Fluent.html) |
