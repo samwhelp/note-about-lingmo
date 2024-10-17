@@ -8,7 +8,7 @@ parent: 如何
 
 # 設定「Window Decoration」
 
-> **目前在「Lingmo OS」無法切換「Window Decoration」**
+> **目前在「Lingmo OS」無法切換「Window Decoration」。**
 
 
 
