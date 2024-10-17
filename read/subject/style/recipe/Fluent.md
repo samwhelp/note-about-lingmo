@@ -40,14 +40,32 @@ grand_parent: 外觀設定
 
 | 設定腳本 |
 | ------- |
+| [Fluent-Dark-with-icon-Citrus-Dark-Black](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Fluent/Fluent-Dark-with-icon-Citrus-Dark-Black) |
+| [Fluent-Dark-with-icon-Citrus-Dark-Blue](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Fluent/Fluent-Dark-with-icon-Citrus-Dark-Blue) |
+| [Fluent-Dark-with-icon-Citrus-Dark-Brown](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Fluent/Fluent-Dark-with-icon-Citrus-Dark-Brown) |
+| [Fluent-Dark-with-icon-Citrus-Dark-Green](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Fluent/Fluent-Dark-with-icon-Citrus-Dark-Green) |
+| [Fluent-Dark-with-icon-Citrus-Dark-Grey](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Fluent/Fluent-Dark-with-icon-Citrus-Dark-Grey) |
+| [Fluent-Dark-with-icon-Citrus-Dark-Orange](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Fluent/Fluent-Dark-with-icon-Citrus-Dark-Orange) |
+| [Fluent-Dark-with-icon-Citrus-Dark-Pink](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Fluent/Fluent-Dark-with-icon-Citrus-Dark-Pink) |
+| [Fluent-Dark-with-icon-Citrus-Dark-Purple](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Fluent/Fluent-Dark-with-icon-Citrus-Dark-Purple) |
 | [Fluent-Dark-with-icon-Citrus-Dark-Red](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Fluent/Fluent-Dark-with-icon-Citrus-Dark-Red) |
+| [Fluent-Dark-with-icon-Citrus-Dark-Yellow](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Fluent/Fluent-Dark-with-icon-Citrus-Dark-Yellow) |
 
 
 
 
 | 設定腳本 |
 | ------- |
+| [Fluent-Light-with-icon-Citrus-Light-Black](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Fluent/Fluent-Light-with-icon-Citrus-Light-Black) |
+| [Fluent-Light-with-icon-Citrus-Light-Blue](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Fluent/Fluent-Light-with-icon-Citrus-Light-Blue) |
+| [Fluent-Light-with-icon-Citrus-Light-Brown](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Fluent/Fluent-Light-with-icon-Citrus-Light-Brown) |
+| [Fluent-Light-with-icon-Citrus-Light-Green](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Fluent/Fluent-Light-with-icon-Citrus-Light-Green) |
+| [Fluent-Light-with-icon-Citrus-Light-Grey](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Fluent/Fluent-Light-with-icon-Citrus-Light-Grey) |
+| [Fluent-Light-with-icon-Citrus-Light-Orange](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Fluent/Fluent-Light-with-icon-Citrus-Light-Orange) |
+| [Fluent-Light-with-icon-Citrus-Light-Pink](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Fluent/Fluent-Light-with-icon-Citrus-Light-Pink) |
+| [Fluent-Light-with-icon-Citrus-Light-Purple](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Fluent/Fluent-Light-with-icon-Citrus-Light-Purple) |
 | [Fluent-Light-with-icon-Citrus-Light-Red](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Fluent/Fluent-Light-with-icon-Citrus-Light-Red) |
+| [Fluent-Light-with-icon-Citrus-Light-Yellow](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Fluent/Fluent-Light-with-icon-Citrus-Light-Yellow) |
 
 
 
