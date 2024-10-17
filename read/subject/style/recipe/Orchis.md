@@ -28,6 +28,16 @@ grand_parent: 外觀設定
 
 
 
+## 設定腳本
+
+| 設定腳本 |
+| ------- |
+| [qt-style-follow-kvantum](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/qt-style-config/qt-style-follow-kvantum) |
+| [Orchis](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Orchis) |
+
+
+
+
 | 設定腳本 |
 | ------- |
 | [Orchis-Dark-with-icon-Citrus-Dark-Black](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Orchis/Orchis-Dark-with-icon-Citrus-Dark-Black) |
@@ -56,16 +66,6 @@ grand_parent: 外觀設定
 | [Orchis-Light-with-icon-Citrus-Light-Purple](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Orchis/Orchis-Light-with-icon-Citrus-Light-Purple) |
 | [Orchis-Light-with-icon-Citrus-Light-Red](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Orchis/Orchis-Light-with-icon-Citrus-Light-Red) |
 | [Orchis-Light-with-icon-Citrus-Light-Yellow](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Orchis/Orchis-Light-with-icon-Citrus-Light-Yellow) |
-
-
-
-
-## 設定腳本
-
-| 設定腳本 |
-| ------- |
-| [qt-style-follow-kvantum](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/qt-style-config/qt-style-follow-kvantum) |
-| [Orchis](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Orchis) |
 
 
 
