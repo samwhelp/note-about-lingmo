@@ -31,22 +31,22 @@ has_children: true
 
 | 設定範例 |
 | ------- |
-| [locale-en_US](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/locale-config/locale-en_US) |
-| [locale-zh_TW](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/locale-config/locale-zh_TW) |
-| [locale-zh_CN](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/locale-config/locale-zh_CN) |
+| [locale-en_US](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/locale-config/locale/locale-en_US) |
+| [locale-zh_TW](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/locale-config/locale/locale-zh_TW) |
+| [locale-zh_CN](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/locale-config/locale/locale-zh_CN) |
 
 
 
 
 ## 設定檔
 
-> 以「[locale-zh_TW](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/locale-config/locale-zh_TW)」為例
+> 以「[locale-zh_TW](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/locale-config/locale/locale-zh_TW)」為例
 
 | 設定檔 |
 | ----- |
-| [/etc/locale.gen](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/locale-config/locale-zh_TW/asset/overlay/etc/locale.gen#L520-L521) |
-| [/etc/locale.conf](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/locale-config/locale-zh_TW/asset/overlay/etc/locale.conf) |
-| [~/.config/lingmoos/language.conf](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/locale-config/locale-zh_TW/asset/overlay/etc/skel/.config/lingmoos/language.conf) |
+| [/etc/locale.gen](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/locale-config/locale/locale-zh_TW/asset/overlay/etc/locale.gen#L520-L521) |
+| [/etc/locale.conf](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/locale-config/locale/locale-zh_TW/asset/overlay/etc/locale.conf) |
+| [~/.config/lingmoos/language.conf](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/locale-config/locale/locale-zh_TW/asset/overlay/etc/skel/.config/lingmoos/language.conf) |
 
 
 
