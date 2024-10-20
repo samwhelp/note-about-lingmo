@@ -21,14 +21,14 @@ grand_parent: ISO
 
 ## 下載 ISO
 
-先參考「[Download ISO](https://samwhelp.github.io/note-about-lingmo/read/core/iso/download-iso.html)」這篇提到的下載方式，下載「Debian 官方提供最新的ISO檔案」。
+先參考「[Download ISO](https://samwhelp.github.io/note-about-lingmo/read/core/iso/download-iso.html)」這篇提到的下載方式，下載「Lingmo OS 官方提供最新的ISO檔案」。
 
-將「ISO檔案」放到「`/opt/iso/LingmoOS/latest/debian-live-12.7.0-amd64-xfce.iso`」這個路徑。
+將「ISO檔案」放到「`/opt/iso/LingmoOS/latest/lingmo-os-2.0-hydrogen-release-desktop-amd64.iso`」這個路徑。
 
 舉例執行下面指令
 
 ``` sh
-sudo curl -fLo /opt/iso/LingmoOS/latest/debian-live-12.7.0-amd64-xfce.iso --create-dirs \
+sudo curl -fLo /opt/iso/LingmoOS/latest/lingmo-os-2.0-hydrogen-release-desktop-amd64.iso --create-dirs \
 	https://sourceforge.net/projects/lingmo-os/files/release/iso/hydrogen/stable/lingmo-os-2.0-hydrogen-release-desktop-amd64.iso
 ```
 
