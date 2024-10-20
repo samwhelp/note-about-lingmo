@@ -151,7 +151,7 @@ LC_IDENTIFICATION="en_US.UTF-8"
 LC_ALL=
 ```
 
-> 注意「[/etc/locale.conf](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/locale-config/sample/en_US/locale.conf)」，是安裝程式「[calamares](https://github.com/calamares/calamares)」在安裝過程所產生的，它會填寫很多行。但一般實務上只需要第一行「`LANG=en_US.UTF-8`」。
+> 注意「[/etc/locale.conf](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/locale-config/sample/en_US/locale.conf)」，是安裝程式「[calamares](https://github.com/calamares/calamares)」在安裝過程所產生的，它會填寫很多行。但一般實務上只需要第一行「`LANG=en_US.UTF-8`」就可以了。
 
 
 
@@ -187,7 +187,7 @@ en_US.UTF-8 UTF-8
 zh_TW.UTF-8 UTF-8
 ```
 
-> 修改後，要執行下面指令
+> 修改「`/etc/locale.gen`」後，要執行下面指令
 
 ``` sh
 sudo locale-gen
@@ -218,3 +218,103 @@ POSIX
 zh_TW.utf8
 ```
 
+
+
+## 說明 / 切換語系 / 修改「/etc/locale.conf」
+
+執行
+
+``` sh
+file /etc/default/locale
+```
+
+顯示
+
+```
+/etc/default/locale: symbolic link to ../locale.conf
+```
+
+所以我們只要修改「`/etc/locale.conf`」就可以了。
+
+
+> 原本的「[/etc/locale.conf](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/locale-config/sample/en_US/locale.conf)」內容如下
+
+
+```
+LANG=en_US.UTF-8
+LC_ADDRESS=en_US.UTF-8
+LC_IDENTIFICATION=en_US.UTF-8
+LC_MEASUREMENT=en_US.UTF-8
+LC_MONETARY=en_US.UTF-8
+LC_NAME=en_US.UTF-8
+LC_NUMERIC=en_US.UTF-8
+LC_PAPER=en_US.UTF-8
+LC_TELEPHONE=en_US.UTF-8
+LC_TIME=en_US.UTF-8
+```
+
+> 注意「[/etc/locale.conf](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/locale-config/sample/en_US/locale.conf)」，是安裝程式「[calamares](https://github.com/calamares/calamares)」在安裝過程所產生的，它會填寫很多行。但一般實務上只需要第一行「`LANG=en_US.UTF-8`」就可以了。
+
+> 修改後的「[/etc/locale.conf](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/locale-config/locale/locale-zh_TW/asset/overlay/etc/locale.conf)」內容如下
+
+```
+LANG=zh_TW.UTF-8
+```
+
+> 修改「`/etc/locale.conf`」後，重新開機後，再執行下面指令確認
+
+``` sh
+locale
+```
+
+顯示
+
+```
+LANG=zh_TW.UTF-8
+LANGUAGE=zh_TW
+LC_CTYPE=zh_TW.UTF-8
+LC_NUMERIC=zh_TW.UTF-8
+LC_TIME=zh_TW.UTF-8
+LC_COLLATE=zh_TW.UTF-8
+LC_MONETARY=zh_TW.UTF-8
+LC_MESSAGES="zh_TW.UTF-8"
+LC_PAPER="zh_TW.UTF-8"
+LC_NAME="zh_TW.UTF-8"
+LC_ADDRESS="zh_TW.UTF-8"
+LC_TELEPHONE="zh_TW.UTF-8"
+LC_MEASUREMENT=zh_TW.UTF-8
+LC_IDENTIFICATION="zh_TW.UTF-8"
+LC_ALL=
+```
+
+> 上面兩個步驟，應該在大部分的Linux發行版通用。
+
+> 在「Lingmo」這個「桌面環境」，則是還有一個設定檔「`~/.config/lingmoos/language.conf`」需要設定。
+
+
+
+
+## 說明 / 切換語系 / 修改「~/.config/lingmoos/language.conf」
+
+
+> 原本的「[~/.config/lingmoos/language.conf](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/locale-config/sample/en_US/language.conf)」內容如下
+
+``` ini
+[General]
+language=en_US
+```
+
+
+> 修改後的「[~/.config/lingmoos/language.conf](https://github.com/samwhelp/lingmo-adjustment/blob/main/prototype/main/locale-config/locale/locale-zh_TW/asset/overlay/etc/skel/.config/lingmoos/language.conf)」內容如下
+
+```
+[General]
+language=zh_TW
+```
+
+> 修改「`~/.config/lingmoos/language.conf`」後，登出系統，再登入，就可以看到「圖形程式介面」會出現「繁體中文」。
+
+
+## 圖形介面程式
+
+在「Lingmo」也有提供「`lingmo-settings -m language`」這個「圖形介面程式」來操作切換「語系」。
