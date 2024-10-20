@@ -17,6 +17,7 @@
 
 ## 主題
 
+* [ISO](#iso)
 * [微調腳本](#微調腳本)
 * [按鍵綁定](#按鍵綁定)
 * [概覽](#概覽)
@@ -30,6 +31,26 @@
 * [工具](read/subject/tool)
 * [連結](read/link)
 * [相關筆記](#相關筆記)
+
+
+
+
+## ISO
+
+### Download ISO
+
+| Download ISO |
+| --- |
+| [Download ISO](https://samwhelp.github.io/note-about-lingmo/read/core/iso/download-iso.html) |
+
+
+### Boot ISO
+
+| Boot ISO |
+| --- |
+| [Boot ISO By USB](https://samwhelp.github.io/note-about-lingmo/read/core/iso/boot-iso/boot-iso-by-usb.html) |
+| [Boot ISO By Ventoy](https://samwhelp.github.io/note-about-lingmo/read/core/iso/boot-iso/boot-iso-by-ventoy.html) |
+| [Boot ISO By GRUB](https://samwhelp.github.io/note-about-lingmo/read/core/iso/boot-iso/boot-iso-by-grub.html) |
 
 
 
