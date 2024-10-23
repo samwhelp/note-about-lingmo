@@ -16,6 +16,8 @@ parent: 如何
 * [相關連結](#相關連結)
 * [前提](#前提)
 * [說明](#說明)
+* [設定範例](#設定範例)
+* [「SDDM」自帶的「Theme」](#sddm自帶的theme)
 
 
 
@@ -56,6 +58,7 @@ Current=lingmo
 
 * [安裝「sddm-theme-maldives」](#安裝sddm-theme-maldives)
 * [設定採用「sddm-theme-maldives」](#設定採用sddm-theme-maldives)
+* [設定「sddm-theme-maldives」的「背景圖」](#設定sddm-theme-maldives的背景圖)
 
 
 
@@ -140,3 +143,27 @@ background=/usr/share/backgrounds/lingmoos/Origin.jpg
 ```
 
 > 登出就可以看到效果。
+
+
+
+
+## 設定範例
+
+| 設定範例 |
+| ------- |
+| [Lingmo](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/sddm-config/by-theme/main/profile/Lingmo) |
+| [Elarun](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/sddm-config/by-theme/main/profile/Elarun) |
+| [Maldives](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/sddm-config/by-theme/main/profile/Maldives) |
+| [Maya](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/sddm-config/by-theme/main/profile/Maya) |
+| [Maui](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/sddm-config/by-theme/main/profile/Maui) |
+
+
+
+
+## 「SDDM」自帶的「Theme」
+
+| SDDM Theme | Debian Package |
+| ---------- | -------------- |
+| [elarun](https://github.com/sddm/sddm/tree/develop/data/themes/elarun) | [sddm-theme-elarun](https://packages.debian.org/stable/sddm-theme-elarun) |
+| [maldives](https://github.com/sddm/sddm/tree/develop/data/themes/maldives) | [sddm-theme-maldives](https://packages.debian.org/stable/sddm-theme-maldives) |
+| [maya](https://github.com/sddm/sddm/tree/develop/data/themes/maya) | [sddm-theme-maya](https://packages.debian.org/stable/sddm-theme-maya) |
