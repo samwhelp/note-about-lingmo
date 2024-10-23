@@ -1,6 +1,6 @@
 ---
 title: 設定「SDDM Theme」
-nav_order: 7040
+nav_order: 7050
 has_children: false
 parent: 如何
 ---
