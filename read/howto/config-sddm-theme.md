@@ -48,6 +48,8 @@ parent: 如何
 Current=lingmo
 ```
 
+> 可以執行「[sddm --example-config](https://samwhelp.github.io/note-about-sddm/read/command/sddm.html#example-config)」來了解所有的參數和預設值。
+
 
 
 
@@ -59,6 +61,7 @@ Current=lingmo
 * [安裝「sddm-theme-maldives」](#安裝sddm-theme-maldives)
 * [設定採用「sddm-theme-maldives」](#設定採用sddm-theme-maldives)
 * [設定「sddm-theme-maldives」的「背景圖」](#設定sddm-theme-maldives的背景圖)
+* [如何預覽](#如何預覽)
 
 
 
@@ -143,6 +146,19 @@ background=/usr/share/backgrounds/lingmoos/Origin.jpg
 ```
 
 > 登出就可以看到效果。
+
+
+
+
+## 如何預覽
+
+若是要預覽某個「SDDM 佈景主題」，
+
+舉例要預覽「`/usr/share/sddm/themes/maldives`」，可以執行下面指令
+
+``` sh
+sddm-greeter --test-mode --theme /usr/share/sddm/themes/maldives
+```
 
 
 
