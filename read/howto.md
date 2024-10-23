@@ -19,3 +19,4 @@ has_children: true
 | ---------- |
 | [設定「Qt Style」](howto/config-qt-style) |
 | [設定「Window Decoration」](howto/config-window-decoration) |
+| [設定「SDDM Theme」](howto/config-sddm-theme) |
