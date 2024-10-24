@@ -158,3 +158,20 @@ ls -1 ../lingmo-core*.*
 
 * [man mk-build-deps](https://manpages.debian.org/stable/devscripts/mk-build-deps.1.en.html)
 * [man dpkg-buildpackage](https://manpages.debian.org/stable/dpkg-dev/dpkg-buildpackage.1.en.html)
+
+
+
+
+## 其他「clone」的參考指令
+
+> clone recursive
+
+``` sh
+git clone --recursive "https://github.com/LingmoOS/lingmo-core.git" "lingmo-core"
+```
+
+> clone tag 2.0.1
+
+``` sh
+git clone --recursive -b "2.0.1" "https://github.com/LingmoOS/lingmo-core.git" "lingmo-core"
+```
