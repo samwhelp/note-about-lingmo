@@ -17,6 +17,7 @@ grand_parent: 開發
 * [緣起](#緣起)
 * [說明](#說明)
 * [Manpage](#manpage)
+* [應用專案](#應用專案)
 
 
 
@@ -175,3 +176,14 @@ git clone --recursive "https://github.com/LingmoOS/lingmo-core.git" "lingmo-core
 ``` sh
 git clone --recursive -b "2.0.1" "https://github.com/LingmoOS/lingmo-core.git" "lingmo-core"
 ```
+
+
+
+
+## 應用專案
+
+> 從「LingmoOS / [lingmo-build](https://github.com/LingmoOS/lingmo-build)」這個專案學到上面的概念基礎，我另外寫了新的專案「[lingmo-build-debian-package-factory](https://github.com/samwhelp/lingmo-build-debian-package-factory)」，一樣用來打包「lingmo-build / [Configs](https://github.com/LingmoOS/lingmo-build/tree/main/Configs)」所列的專案。
+
+| Link | GitHub |
+| ---- | ------ |
+| [lingmo-build-debian-package-factory](https://samwhelp.github.io/lingmo-build-debian-package-factory/) | [GitHub](https://github.com/samwhelp/lingmo-build-debian-package-factory) |
