@@ -8,6 +8,7 @@
 | ---- | ------ |
 | [Lingmo OS Adjustment](https://samwhelp.github.io/lingmo-adjustment/) | [GitHub](https://github.com/samwhelp/lingmo-adjustment) |
 | [Lingmo OS 探索筆記](https://samwhelp.github.io/note-about-lingmo/) | [GitHub](https://github.com/samwhelp/note-about-lingmo) |
+| [Lingmo Live Build Config 探索筆記](https://samwhelp.github.io/note-about-lingmo-live-build-config/) | [GitHub](https://github.com/samwhelp/note-about-lingmo-live-build-config) |
 
 
 > 目前此筆記是根據「[Lingmo OS 2.0 Hydrogen](https://github.com/orgs/LingmoOS/discussions/20)」所撰寫的。
@@ -51,6 +52,11 @@
 | [Boot ISO By USB](https://samwhelp.github.io/note-about-lingmo/read/core/iso/boot-iso/boot-iso-by-usb.html) |
 | [Boot ISO By Ventoy](https://samwhelp.github.io/note-about-lingmo/read/core/iso/boot-iso/boot-iso-by-ventoy.html) |
 | [Boot ISO By GRUB](https://samwhelp.github.io/note-about-lingmo/read/core/iso/boot-iso/boot-iso-by-grub.html) |
+
+
+### Build ISO
+
+> [Lingmo Live Build Config 探索筆記](https://samwhelp.github.io/note-about-lingmo-live-build-config/)
 
 
 
