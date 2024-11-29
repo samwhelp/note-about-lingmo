@@ -18,7 +18,7 @@ grand_parent: 開發
 * [說明](#說明)
 * [Manpage](#manpage)
 * [應用專案](#應用專案)
-
+* [後記](#後記)
 
 
 
@@ -187,3 +187,21 @@ git clone --recursive -b "2.0.1" "https://github.com/LingmoOS/lingmo-core.git" "
 | Link | GitHub |
 | ---- | ------ |
 | [lingmo-build-debian-package-factory](https://samwhelp.github.io/lingmo-build-debian-package-factory/) | [GitHub](https://github.com/samwhelp/lingmo-build-debian-package-factory) |
+
+
+
+
+## 後記
+
+> 後來在「[Nitrux Linux](https://github.com/nitrux)」的一些專案，發現到也是應用到這些技巧
+
+| 專案 |
+| ---- |
+| Nitrux / nitrux-base-files / [gh-build.sh](https://github.com/Nitrux/nitrux-base-files/blob/legacy/gh-build.sh) |
+| Nitrux / sddm-config / [gh-build.sh](https://github.com/Nitrux/sddm-config/blob/main/gh-build.sh) |
+| Nitrux / luv-icon-theme / [gh-build.sh](https://github.com/Nitrux/luv-icon-theme/blob/master/gh-build.sh) |
+| Nitrux / nuts / [gh-build.sh](https://github.com/Nitrux/nuts/blob/main/gh-build.sh) |
+| Nitrux / nx-desktop-settings / [gh-build.sh](https://github.com/Nitrux/nx-desktop-settings/blob/legacy-plasma/gh-build.sh) |
+| Nitrux / nx-desktop / [gh-build.sh](https://github.com/Nitrux/nx-desktop/blob/legacy-plasma/gh-build.sh) |
+| Nitrux / nx-desktop-apps / [gh-build.sh](https://github.com/Nitrux/nx-desktop-apps/blob/legacy-plasma/gh-build.sh) |
+
