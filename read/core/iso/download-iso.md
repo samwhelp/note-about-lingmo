@@ -73,7 +73,7 @@ wget -c 'https://releases.lingmo.org.cn/d/releases/2.1/amd64/lingmo-os-2.1-hydro
 ``` sh
 wget -c 'https://releases.lingmo.org.cn/d/releases/2.1/amd64/sha256.txt'
 
-sha256sum -c sha256sum.txt
+sha256sum -c sha256.txt
 ```
 
 會看到類似如下的內容
