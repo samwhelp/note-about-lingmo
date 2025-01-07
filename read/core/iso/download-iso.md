@@ -29,7 +29,7 @@ parent: ISO
 
 ## 下載腳本
 
-* [下載腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/core/iso/boot-iso/boot-iso-by-grub/demo-boot-lingmo-hydrogen-iso)
+* [下載腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/core/iso/boot-iso/boot-iso-by-grub/demo-boot-lingmo-iso)
 
 
 
