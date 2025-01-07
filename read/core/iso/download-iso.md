@@ -56,7 +56,7 @@ wget -c 'https://releases.lingmo.org.cn/d/releases/2.1/amd64/lingmo-os-2.1-hydro
 
 ## Boot ISO
 
-> 簡單「[驗證](#驗證)」過「下載完成的ISO檔案」，接下來可以選擇不同的「[Boot ISO](https://samwhelp.github.io/note-about-debian/read/core/iso/boot-iso.html)」方式。
+> 簡單「[驗證](#驗證)」過「下載完成的ISO檔案」，接下來可以選擇不同的方式「[Boot ISO](https://samwhelp.github.io/note-about-debian/read/core/iso/boot-iso.html)」。
 
 
 
