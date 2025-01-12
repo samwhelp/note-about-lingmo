@@ -28,3 +28,11 @@ parent: 佈景主題
 | [Graphite](https://samwhelp.github.io/note-about-lingmo/read/subject/theme/source/Graphite.html) | [Graphite](https://samwhelp.github.io/note-about-lingmo/read/subject/style/recipe/Graphite.html) |
 | [Vimix](https://samwhelp.github.io/note-about-lingmo/read/subject/theme/source/Vimix.html) | [Vimix](https://samwhelp.github.io/note-about-lingmo/read/subject/style/recipe/Vimix.html) |
 | [Fluent](https://samwhelp.github.io/note-about-lingmo/read/subject/theme/source/Fluent.html) | [Fluent](https://samwhelp.github.io/note-about-lingmo/read/subject/style/recipe/Fluent.html) |
+
+
+## 打包範例
+
+| Link | GitHub |
+| ---- | ------ |
+| [deb-recipe](https://samwhelp.github.io/deb-recipe/) | [GitHub](https://github.com/samwhelp/deb-recipe) |
+| [deb-coffee](https://samwhelp.github.io/deb-coffee/) | [GitHub](https://github.com/samwhelp/deb-coffee) |
