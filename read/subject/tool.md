@@ -65,7 +65,7 @@ has_children: true
 
 ## Text Editor
 
-| [Text Editor]((https://samwhelp.github.io/note-about-lingmo/read/subject/tool/text-editor.html)) | 微調腳本 |
+| [Text Editor](https://samwhelp.github.io/note-about-lingmo/read/subject/tool/text-editor.html) | 微調腳本 |
 | --- | --- |
 | [mousepad](https://samwhelp.github.io/note-about-lingmo/read/subject/tool/text-editor/mousepad.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/mousepad) |
 | [kate](https://samwhelp.github.io/note-about-lingmo/read/subject/tool/text-editor/kate.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/kate) |
