@@ -52,7 +52,7 @@ wget -c https://sourceforge.net/projects/lingmo-os/files/release/iso/hydrogen/st
 
 ## Boot ISO
 
-> 簡單「[驗證](#驗證)」過「下載完成的ISO檔案」，接下來可以選擇不同的「[Boot ISO](https://samwhelp.github.io/note-about-debian/read/core/iso/boot-iso.html)」方式。
+> 簡單「[驗證](#驗證)」過「下載完成的ISO檔案」，接下來可以選擇不同的「[Boot ISO](https://samwhelp.github.io/note-about-lingmo/read/core/iso/boot-iso.html)」方式。
 
 
 
