@@ -43,21 +43,21 @@ has_children: true
 
 ## Launcher
 
-| [Launcher](https://samwhelp.github.io/note-about-debian/read/subject/tool/launcher.html) | 微調腳本 |
+| [Launcher](https://samwhelp.github.io/note-about-lingmo/read/subject/tool/launcher.html) | 微調腳本 |
 | --- | --- |
-| [rofi](https://samwhelp.github.io/note-about-debian/read/subject/tool/launcher/rofi.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/rofi) |
+| [rofi](https://samwhelp.github.io/note-about-lingmo/read/subject/tool/launcher/rofi.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/rofi) |
 
 
 
 
 ## File Manager
 
-| [File Manager](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager.html) | 微調腳本 |
+| [File Manager](https://samwhelp.github.io/note-about-lingmo/read/subject/tool/file-manager.html) | 微調腳本 |
 | --- | --- |
-| [pcmanfm-qt](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager/pcmanfm-qt.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/pcmanfm-qt) |
-| [thunar](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager/thunar.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/thunar) |
-| [dolphin](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager/dolphin.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/dolphin) |
-| [pcmanfm](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager/pcmanfm.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/pcmanfm) |
+| [pcmanfm-qt](https://samwhelp.github.io/note-about-lingmo/read/subject/tool/file-manager/pcmanfm-qt.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/pcmanfm-qt) |
+| [thunar](https://samwhelp.github.io/note-about-lingmo/read/subject/tool/file-manager/thunar.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/thunar) |
+| [dolphin](https://samwhelp.github.io/note-about-lingmo/read/subject/tool/file-manager/dolphin.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/dolphin) |
+| [pcmanfm](https://samwhelp.github.io/note-about-lingmo/read/subject/tool/file-manager/pcmanfm.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/pcmanfm) |
 
 
 
@@ -65,55 +65,55 @@ has_children: true
 
 ## Text Editor
 
-| [Text Editor]((https://samwhelp.github.io/note-about-debian/read/subject/tool/text-editor.html)) | 微調腳本 |
+| [Text Editor]((https://samwhelp.github.io/note-about-lingmo/read/subject/tool/text-editor.html)) | 微調腳本 |
 | --- | --- |
-| [mousepad](https://samwhelp.github.io/note-about-debian/read/subject/tool/text-editor/mousepad.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/mousepad) |
-| [kate](https://samwhelp.github.io/note-about-debian/read/subject/tool/text-editor/kate.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/kate) |
-| [kwrite](https://samwhelp.github.io/note-about-debian/read/subject/tool/text-editor/kwrite.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/kwrite) |
-| [featherpad](https://samwhelp.github.io/note-about-debian/read/subject/tool/text-editor/featherpad.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/featherpad) |
-| [geany](https://samwhelp.github.io/note-about-debian/read/subject/tool/text-editor/geany.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/geany) |
+| [mousepad](https://samwhelp.github.io/note-about-lingmo/read/subject/tool/text-editor/mousepad.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/mousepad) |
+| [kate](https://samwhelp.github.io/note-about-lingmo/read/subject/tool/text-editor/kate.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/kate) |
+| [kwrite](https://samwhelp.github.io/note-about-lingmo/read/subject/tool/text-editor/kwrite.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/kwrite) |
+| [featherpad](https://samwhelp.github.io/note-about-lingmo/read/subject/tool/text-editor/featherpad.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/featherpad) |
+| [geany](https://samwhelp.github.io/note-about-lingmo/read/subject/tool/text-editor/geany.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/geany) |
 
 
 
 
 ## Web Browser
 
-| [Web Browser](https://samwhelp.github.io/note-about-debian/read/subject/tool/web-browser.html) | 微調腳本 |
+| [Web Browser](https://samwhelp.github.io/note-about-lingmo/read/subject/tool/web-browser.html) | 微調腳本 |
 | --- | --- |
-| [firefox](https://samwhelp.github.io/note-about-debian/read/subject/tool/web-browser/firefox.html) | 微調腳本 |
-| [falkon](https://samwhelp.github.io/note-about-debian/read/subject/tool/web-browser/falkon.html) | 微調腳本 |
+| [firefox](https://samwhelp.github.io/note-about-lingmo/read/subject/tool/web-browser/firefox.html) | 微調腳本 |
+| [falkon](https://samwhelp.github.io/note-about-lingmo/read/subject/tool/web-browser/falkon.html) | 微調腳本 |
 
 
 
 
 ## Terminal
 
-| [Terminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal.html) | 微調腳本 |
+| [Terminal](https://samwhelp.github.io/note-about-lingmo/read/subject/tool/terminal.html) | 微調腳本 |
 | --- | --- |
-| [sakura](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/sakura.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/sakura) |
-| [xfce4-terminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/xfce4-terminal.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/xfce4-terminal) |
-| [konsole](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/konsole.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/sakura) |
-| [yakuake](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/yakuake.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/yakuake) |
-| [qterminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/qterminal.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/qterminal) |
-| [lxterminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/lxterminal.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/lxterminal) |
-| [mate-terminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/mate-terminal.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/mate-terminal) |
-| [gnome-terminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/gnome-terminal.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/gnome-terminal) |
+| [sakura](https://samwhelp.github.io/note-about-lingmo/read/subject/tool/terminal/sakura.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/sakura) |
+| [xfce4-terminal](https://samwhelp.github.io/note-about-lingmo/read/subject/tool/terminal/xfce4-terminal.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/xfce4-terminal) |
+| [konsole](https://samwhelp.github.io/note-about-lingmo/read/subject/tool/terminal/konsole.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/sakura) |
+| [yakuake](https://samwhelp.github.io/note-about-lingmo/read/subject/tool/terminal/yakuake.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/yakuake) |
+| [qterminal](https://samwhelp.github.io/note-about-lingmo/read/subject/tool/terminal/qterminal.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/qterminal) |
+| [lxterminal](https://samwhelp.github.io/note-about-lingmo/read/subject/tool/terminal/lxterminal.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/lxterminal) |
+| [mate-terminal](https://samwhelp.github.io/note-about-lingmo/read/subject/tool/terminal/mate-terminal.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/mate-terminal) |
+| [gnome-terminal](https://samwhelp.github.io/note-about-lingmo/read/subject/tool/terminal/gnome-terminal.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/gnome-terminal) |
 
 
 
 
 ## Image Viewer
 
-| [Image Viewer](https://samwhelp.github.io/note-about-debian/read/subject/tool/image-viewer.html) | 微調腳本 |
+| [Image Viewer](https://samwhelp.github.io/note-about-lingmo/read/subject/tool/image-viewer.html) | 微調腳本 |
 | --- | --- |
-| [viewnior](https://samwhelp.github.io/note-about-debian/read/subject/tool/image-viewer/viewnior.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/viewnior) |
-| [gwenview](https://samwhelp.github.io/note-about-debian/read/subject/tool/image-viewer/gwenview.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/gwenview) |
+| [viewnior](https://samwhelp.github.io/note-about-lingmo/read/subject/tool/image-viewer/viewnior.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/viewnior) |
+| [gwenview](https://samwhelp.github.io/note-about-lingmo/read/subject/tool/image-viewer/gwenview.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/gwenview) |
 
 
 
 
 ## Media Player
 
-| [Media Player](https://samwhelp.github.io/note-about-debian/read/subject/tool/media-player.html) | 微調腳本 |
+| [Media Player](https://samwhelp.github.io/note-about-lingmo/read/subject/tool/media-player.html) | 微調腳本 |
 | --- | --- |
-| [mpv](https://samwhelp.github.io/note-about-debian/read/subject/tool/media-player/mpv.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/mpv) |
+| [mpv](https://samwhelp.github.io/note-about-lingmo/read/subject/tool/media-player/mpv.html) | [微調腳本](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/tool-config/part/mpv) |
