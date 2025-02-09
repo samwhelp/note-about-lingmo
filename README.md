@@ -11,6 +11,9 @@
 | [Lingmo / Live Build Config / 探索筆記](https://samwhelp.github.io/note-about-lingmo-live-build-config/) | [GitHub](https://github.com/samwhelp/note-about-lingmo-live-build-config) |
 
 
+> [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-gxde/read/cheatsheet/keybind.html)
+
+
 > 目前此筆記是根據「[Lingmo OS 2.0 Hydrogen](https://github.com/orgs/LingmoOS/discussions/20)」所撰寫的。
 
 
