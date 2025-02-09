@@ -162,6 +162,9 @@
 | [Kubuntu 探索筆記](https://samwhelp.github.io/note-about-kubuntu/) | [GitHub](https://github.com/samwhelp/note-about-kubuntu) |
 | [deb-recipe](https://samwhelp.github.io/deb-recipe/) | [GitHub](https://github.com/samwhelp/deb-recipe) |
 | [deb-coffee](https://samwhelp.github.io/deb-coffee/) | [GitHub](https://github.com/samwhelp/deb-coffee) |
+| [GXDE OS 探索筆記](https://samwhelp.github.io/note-about-gxde/) | [GitHub](https://github.com/samwhelp/note-about-gxde) |
+| [Nitrux 探索筆記](https://samwhelp.github.io/note-about-nitrux/) | [GitHub](https://github.com/samwhelp/note-about-nitrux) |
+
 
 
 
