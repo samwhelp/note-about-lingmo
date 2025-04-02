@@ -23,6 +23,7 @@ parent: 一覽表
 * [視窗操作](#視窗操作)
 * [工作空間](#工作空間)
 * [相關連結](#相關連結)
+* [相關專案](#相關專案)
 
 
 
@@ -214,3 +215,14 @@ parent: 一覽表
 | 相關連結 |
 | ------- |
 | [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-lingmo/read/config/keybind.html) |
+
+
+
+
+## 相關專案
+
+| [hotkey-tips](https://github.com/samwhelp/lingmo-adjustment/tree/main/project/gen/hotkey-tips) |
+| ----------- |
+| [hotkey-tips.md](https://github.com/samwhelp/lingmo-adjustment/blob/main/project/gen/hotkey-tips/dist/locale/zh_TW/hotkey-tips.md) |
+| [hotkey-tips.tsv](https://github.com/samwhelp/lingmo-adjustment/blob/main/project/gen/hotkey-tips/dist/locale/zh_TW/hotkey-tips.tsv) |
+| [hotkey-tips.sh](https://github.com/samwhelp/lingmo-adjustment/blob/main/project/gen/hotkey-tips/dist/locale/zh_TW/hotkey-tips.sh) |
